@@ -21,13 +21,14 @@ int main()
 	int T;
 	// scanf("%d", &T);
 	cin >> T;
-	while (T--)
+	while (T != 0)
 	{
 		int B;
 		// scanf("%d", &B);
 		// printf("%d\n", func(B));
 		cin >> B;
 		cout << func(B) << endl;
+		T--;
 	}
 	return 0;
 }
