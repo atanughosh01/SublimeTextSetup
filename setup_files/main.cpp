@@ -9,8 +9,8 @@
 #define all(x) x.begin(),x.end()
 #define FOR(i, a, b)    for(int i=a; i<b; i++)
 #define FORrev(i,a,b)  for(int i= a-1; i>=b; i--)
-#define vll vector <ll> 
-#define pll pair<ll, ll> 
+#define vll vector <ll>
+#define pll pair<ll, ll>
 #define vpll vector <pll>
 #define input(a,n) FOR(i,0,n) cin>>a[i]
 #define mems(x, y) memset(x, y, sizeof(x))
@@ -24,30 +24,30 @@ using namespace std;
 const int MAX_N = 200000;
 int test;
 
-void solve(){
+void solve() {
     // cout.precision(10);
     // cout << fixed;
     // priority_queue <int, vector<int>, greater<int> > pq;
 
     ll n;
     cin >> n;
-	cout << n*n << "\n";
+    cout << n*n << "\n";
 }
 
-int main(){
+int main() {
     ThisIsDragonDen
-    #ifndef ONLINE_JUDGE
-        freopen("input1.txt", "r", stdin); 
-        freopen("output1.txt", "w", stdout); 
-    #else
-        //online submission
-    #endif
+#ifndef ONLINE_JUDGE
+    freopen("input1.txt", "r", stdin);
+    freopen("output1.txt", "w", stdout);
+#else
+    //online submission
+#endif
     clock_t tStart = clock();
     test = 1;
     cin >> test;
-    FOR(i,1,test + 1){  
+    FOR(i, 1, test + 1) {
         solve();
     }
-    cerr << "Completed in: "<< (double)((clock() - tStart)*1000)/CLOCKS_PER_SEC<<" ms"<< endl;
+    cerr << "Completed in: " << (double)((clock() - tStart) * 1000) / CLOCKS_PER_SEC << " ms" << endl;
     return 0;
 }
