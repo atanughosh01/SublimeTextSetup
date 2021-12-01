@@ -1,5 +1,5 @@
 #include <bits/stdc++.h>
-#define ll long  long
+#define ll long long
 #define ld long double
 #define mod 1000000007
 #define inf LLONG_MAX
