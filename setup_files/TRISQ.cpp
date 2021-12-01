@@ -9,8 +9,8 @@
 #define all(x) x.begin(),x.end()
 #define FOR(i, a, b)    for(int i=a; i<b; i++)
 #define FORrev(i,a,b)  for(int i= a-1; i>=b; i--)
-#define vll vector <ll> 
-#define pll pair<ll, ll> 
+#define vll vector <ll>
+#define pll pair<ll, ll>
 #define vpll vector <pll>
 #define input(a,n) FOR(i,0,n) cin>>a[i]
 #define mems(x, y) memset(x, y, sizeof(x))
@@ -22,29 +22,29 @@ using namespace std;
 
 int func(int n)
 {
-    if(n <= 1)
+    if (n <= 1)
         return 0;
     else
-        return n/2 + func(n-2) - 1;
+        return n / 2 + func(n - 2) - 1;
 }
 
-int main(){
+int main() {
     ThisIsDragonDen
-    #ifndef ONLINE_JUDGE
-        freopen("input1.txt", "r", stdin); 
-        freopen("output1.txt", "w", stdout); 
-    #else
-        //online submission
-    #endif
+#ifndef ONLINE_JUDGE
+    freopen("input1.txt", "r", stdin);
+    freopen("output1.txt", "w", stdout);
+#else
+    //online submission
+#endif
     clock_t tStart = clock();
     int T;
     cin >> T;
-    while(T--)
+    while (T--)
     {
         int B;
         cin >> B;
         cout << func(B) << endl;
     }
-    cerr << "Completed in: "<< (double)((clock() - tStart)*1000)/CLOCKS_PER_SEC<<" ms"<< endl;
+    cerr << "Completed in: " << (double)((clock() - tStart) * 1000) / CLOCKS_PER_SEC << " ms" << endl;
     return 0;
 }
