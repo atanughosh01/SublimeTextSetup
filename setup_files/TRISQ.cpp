@@ -35,7 +35,6 @@ using namespace std;
 using namespace chrono;
 
 //------------------------------------
-//------------------------------------
 
 int func(int n)
 {
@@ -46,15 +45,20 @@ int func(int n)
 }
 
 int main() {
+
     fastio();
+
 #ifndef ONLINE_JUDGE
     freopen("input1.txt", "r", stdin);
     freopen("output1.txt", "w", stdout);
     freopen("error.txt", "w", stderr);
+
 #else
     //online submission
+
 #endif
     auto start1 = high_resolution_clock::now();
+
     int T;
     cin >> T;
     while (T--)
@@ -63,9 +67,9 @@ int main() {
         cin >> B;
         cout << func(B) << endl;
     }
+
     auto stop1 = high_resolution_clock::now();
     auto duration = duration_cast<microseconds>(stop1 - start1);
-    cerr << "Completed in: " << duration . count() << " microsec" << endl;
-    // cerr << "Completed in: " << (double)((clock() - tStart) * 1000) / CLOCKS_PER_SEC << " ms" << endl;
+    cerr << "Completed in: " << duration.count() << " microsec" << endl;
     return 0;
 }

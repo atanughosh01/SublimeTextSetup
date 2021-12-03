@@ -36,42 +36,62 @@ using namespace chrono;
 
 //------------------------------------
 
-// const int MAX_N = 200000;
-int test;
+string ltrim(const string &);
+string rtrim(const string &);
 
-void solve() {
-    // cout.precision(10);
-    // cout << fixed;
-    // priority_queue <int, vector<int>, greater<int> > pq;
-
-    ll n;
-    cin >> n;
-    cout << n*n << "\n";
+void staircase(int n) {
+	FOR(i, 1, n) {
+		cout << string((n - i), ' ') << string(i, '#') << endl;
+	}
+	cout << string(n, '#');
 }
 
 int main() {
 
-    fastio();
+	fastio();
 
 #ifndef ONLINE_JUDGE
-    freopen("input1.txt", "r", stdin);
-    freopen("output1.txt", "w", stdout);
-    // freopen("error.txt", "w", stderr);
+	freopen("input1.txt", "r", stdin);
+	freopen("output1.txt", "w", stdout);
+	// freopen("error.txt", "w", stderr);
 
 #else
-    //online submission
+	//online submission
 
 #endif
-    auto start1 = high_resolution_clock::now();
+	auto start1 = high_resolution_clock::now();
 
-    test = 1;
-    cin >> test;
-    FOR(i, 1, test + 1) {
-        solve();
-    }
+	string n_temp;
+	getline(cin, n_temp);
 
-    auto stop1 = high_resolution_clock::now();
-    auto duration = duration_cast<microseconds>(stop1 - start1);
-    cerr << "Completed in: " << duration.count() << " microsec" << endl;
-    return 0;
+	int n = stoi(ltrim(rtrim(n_temp)));
+
+	staircase(n);
+
+	auto stop1 = high_resolution_clock::now();
+	auto duration = duration_cast<microseconds>(stop1 - start1);
+	cerr << "Completed in: " << duration.count() << " microsec" << endl;
+	return 0;
+}
+
+string ltrim(const string &str) {
+	string s(str);
+
+	s.erase(
+	    s.begin(),
+	    find_if(s.begin(), s.end(), not1(ptr_fun<int, int>(isspace)))
+	);
+
+	return s;
+}
+
+string rtrim(const string &str) {
+	string s(str);
+
+	s.erase(
+	    find_if(s.rbegin(), s.rend(), not1(ptr_fun<int, int>(isspace))).base(),
+	    s.end()
+	);
+
+	return s;
 }
