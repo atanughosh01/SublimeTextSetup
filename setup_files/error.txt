@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-Completed in: 1760 microsec
-=======
-Completed in: 172 microsec
->>>>>>> f4b69c2d3d7b73f630b29acbe778d2fc5aaa9908
+Completed in: 1156 microsec
