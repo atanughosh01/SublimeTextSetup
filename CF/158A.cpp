@@ -45,12 +45,12 @@ void solve() {
 	int posOfMin = 1;
 	cin >> posOfMin;
 
-	int score = 0, cnt = 0;
-	vector<int> scoreList;
+	int cnt = 0;
+	int scoreList[numOfCon] = {0};
 
 	FOR(i, 0, numOfCon) {
-		cin >> score;
-		scoreList.push_back(score);
+		cin >> scoreList[i];
+		// scoreList.push_back(score);
 	}
 
 	FOR(j, 0, numOfCon) {
