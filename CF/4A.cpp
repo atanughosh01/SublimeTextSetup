@@ -1,3 +1,5 @@
+// https://codeforces.com/problemset/problem/4/A
+
 #include <bits/stdc++.h>
 // #include<ext/pb_ds/assoc_container.hpp>
 // #include<ext/pb_ds/tree_policy.hpp>
@@ -39,13 +41,15 @@ using namespace chrono;
 // const int MAX_N = 200000;
 
 void solve() {
-	// cout.precision(10);
-	// cout << fixed;
-	// priority_queue <int, vector<int>, greater<int> > pq;
-
-	ll n;
+	short n;
 	cin >> n;
-	cout << n*n << "\n";
+	if (n <= 2) {
+		cout << "NO";
+	} else if (n % 2 == 0) {
+		cout << "YES";
+	} else {
+		cout << "NO";
+	}
 }
 
 int main() {
@@ -63,11 +67,7 @@ int main() {
 #endif
 	auto start1 = high_resolution_clock::now();
 
-	int test = 1;
-	cin >> test;
-	FOR(i, 1, test + 1) {
-		solve();
-	}
+	solve();
 
 	auto stop1 = high_resolution_clock::now();
 	auto duration = duration_cast<microseconds>(stop1 - start1);
