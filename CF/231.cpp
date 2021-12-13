@@ -41,9 +41,19 @@ using namespace chrono;
 // const int MAX_N = 200000;
 
 void solve() {
-	ll n;
-	cin >> n;
-	cout << n*n << "\n";
+	int test = 1;
+	cin >> test;
+	int cnt = 0;
+	FOR(i, 1, test + 1) {
+		int c = 0;
+		FOR(j, 1, 4) {
+			int num = 1;
+			cin >> num;
+			if (num == 1) c++;
+		}
+		if (c >= 2) cnt++;
+	}
+	cout << cnt;
 }
 
 int main() {
@@ -61,11 +71,7 @@ int main() {
 #endif
 	auto start1 = high_resolution_clock::now();
 
-	int test = 1;
-	cin >> test;
-	FOR(i, 1, test + 1) {
-		solve();
-	}
+	solve();
 
 	auto stop1 = high_resolution_clock::now();
 	auto duration = duration_cast<microseconds>(stop1 - start1);
