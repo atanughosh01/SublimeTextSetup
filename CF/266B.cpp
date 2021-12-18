@@ -31,7 +31,6 @@
 #define vpll vector<pll>
 #define input(a,n) FOR(i,0,n) cin>>a[i]
 #define mems(x, y) memset(x, y, sizeof(x))
-#define debug(x) cerr << #x << " "; _print(x); cerr << endl;
 #define fastio() ios_base::sync_with_stdio(false);cin.tie(NULL);cout.tie(NULL)
 
 //------------------------------------
