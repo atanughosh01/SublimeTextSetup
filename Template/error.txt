@@ -1,1 +1,6 @@
-Completed in: 1937 microsec
+n : 20, m : 440
+n : 16, m : 288
+n : -11, m : 99
+n : 33, m : 1155
+
+Completed in: 1282 microsec
