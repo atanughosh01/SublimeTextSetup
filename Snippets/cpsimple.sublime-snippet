@@ -1,8 +1,8 @@
 <snippet>
-	<content><![CDATA[
+    <content><![CDATA[
 // Problem Link : 
 
-//------------------------------ By Atanu Ghosh ------------------------------
+//------------------------------ By @atanughosh01 ------------------------------
 
 #include <bits/stdc++.h>
 // #include<ext/pb_ds/assoc_container.hpp>
@@ -92,10 +92,10 @@ template <class T, class V> void _print(map <T, V> v) {cerr << "[ "; for (auto i
 // const int MAX_NUM = 200000;
 
 ll gcd(ll a, ll b) {
-	if (a > b) swap(a, b);
-	if (a == 0) return 0;
-	if (b % a) return gcd(a, b - a);
-	return a;
+    if (a > b) swap(a, b);
+    if (a == 0) return 0;
+    if (b % a) return gcd(a, b - a);
+    return a;
 }
 
 ll lcm(ll a, ll b) {return ((a * b) / gcd(a, b));}
@@ -143,9 +143,9 @@ int main() {
 }
 
 ]]></content>
-	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-	<tabTrigger>cpsnip</tabTrigger>
-	<!-- Optional: Set a scope to limit where the snippet will trigger -->
-	<!-- <scope>source.python</scope> -->
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>cpsnip</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <!-- <scope>source.python</scope> -->
 </snippet>
  
