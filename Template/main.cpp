@@ -1,6 +1,6 @@
 // Template Program
 
-//------------------------------ By Atanu Ghosh ------------------------------
+//------------------------------ By @atanughosh01 ------------------------------
 
 #include <bits/stdc++.h>
 // #include<ext/pb_ds/assoc_container.hpp>
@@ -42,7 +42,7 @@ typedef unsigned long long ull;
 #define all(x) (x).begin(),(x).end()
 #define set_bits __builtin_popcountll
 #define input(a,n) FOR(i,0,n) cin>>a[i]
-#define output(a,n) FOR(i,0,n) cout<<a[i]
+#define output(a,n,sep) FOR(i,0,n) cout<<a[i]<<sep;
 
 #define FOR(i,a,b) for(ll i=a; i<b; i++)
 #define FORrev(i,a,b) for(ll i= a-1; i>=b; i--)
@@ -90,14 +90,13 @@ template <class T, class V> void _print(map <T, V> v) {cerr << "[ "; for (auto i
 // const int MAX_NUM = 200000;
 
 ll gcd(ll a, ll b) {
-    if (a > b) swap(a, b);
-    if (a == 0) return 0;
-    if (b % a) return gcd(a, b - a);
-    return a;
+	if (a > b) swap(a, b);
+	if (a == 0) return 0;
+	if (b % a) return gcd(a, b - a);
+	return a;
 }
 
 ll lcm(ll a, ll b) {return ((a * b) / gcd(a, b));}
-
 
 //--------------------------------  S O L V E  --------------------------------
 
