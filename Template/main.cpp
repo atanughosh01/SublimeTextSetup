@@ -114,10 +114,14 @@ template<class T, class V> void _print(map<T, V> v) {cerr << "[ "; for (auto i :
 
 void solve() {
     preciseIO();
-    ll n; cin >> n;
-    ll m = n*n + 2*n;
-    deb2(n, m);
-    cout << m << endl;
+    ll x; cin >> x;
+    while(x--){
+        ll n; cin >> n;
+        ll m = n*n + 2*n;
+        deb2(n, m);
+        cout << m << " ";
+    }
+    cout << endl;
 }
 
 //-----------------------------------  M A I N  -----------------------------------
