@@ -1,71 +1,45 @@
 // Template Program
 
-#pragma GCC optimize("Ofast")
-#pragma GCC optimize ("unroll-loops")
-#pragma GCC target("sse,sse2,sse3,ssse3,sse4,popcnt,abm,mmx,avx,avx2,fma,tune=native")
+// #pragma GCC optimize("Ofast")
+// #pragma GCC optimize ("unroll-loops")
+// #pragma GCC target("sse,sse2,sse3,ssse3,sse4,popcnt,abm,mmx,avx,avx2,fma,tune=native")
 #include <bits/stdc++.h>
 using namespace std;
 using namespace chrono;
-mt19937 rng(chrono::steady_clock::now().time_since_epoch().count());
 typedef long long ll;
 typedef long double ld;
 typedef unsigned long long ull;
 
-//---------------------------------  D E F I N E  ---------------------------------
-
-#define ff first
-#define ss second
-#define mp make_pair
-#define pb push_back
-#define ppb pop_back
-#define eb emplace_back
-
-#define pint pair<int,int>
-#define pll pair<ll,ll>
-#define vpll vector<pll>
-#define vll vector<ll>
-#define vint vector<int>
-#define vvll vector<vll>
-#define vvint vector<vint>
-#define vvpll vector<vpll>
-#define vchar vector<char>
-#define vstr vector<string>
-#define gint greater<int>
-#define mint map<int,int>
-#define mll map<ll,ll>
-#define umint unordered_map<int,int>
-#define umll unordered_map<ll,ll>
-
 #define endl "\n"
 #define INF (ll)1e18
 #define MOD (ll)1e9+7
-#define MOD1 998244353
-#define PI 3.141592653589793238462
-
+#define MOD2 998244353
+#define PI (ld)acos(-1.0)
+#define ff first
+#define ss second
+#define V vector
+#define G greater
+#define UMP unordered_map
 #define sz(x) ((ll)(x).size())
 #define all(x) (x).begin(),(x).end()
 #define mems(x,y) memset(x, y, sizeof(x))
-#define input(a,n) FOR(i,0,n) cin>>a[i]
-#define output(a,n,sep) FOR(i,0,n) cout<<a[i]<<sep
-
+#define input(a,n) FOR(i,0,n) cin>>a[i];
+#define output(a,n,sep) FOR(i,0,n) cout<<a[i]<<sep;
 #define FOR(i,a,b) for(ll i=a; i<b; i++)
 #define FORrev(i,a,b) for(ll i=a-1; i>=b; i--)
 #define FORinc(i,a,b,c) for(ll i=a; i<b; i+=c)
 #define FORdec(i,a,b,c) for(ll i=a-1; i>=b; i-=c)
-
 #define set_bits __builtin_popcountll
-#define preciseIO() cout.precision(10);cout << fixed;
+#define preciseIO() cout.precision(15);cout << fixed;
 #define fastIO() ios_base::sync_with_stdio(false);cin.tie(NULL);cout.tie(NULL);
-
-//----------------------------------  D E B U G  ----------------------------------
-
+//------------------------------------------------------------------------------------------------------------------------------------
 #define deb1(a) cerr<<#a<<": "<<a<<endl;
 #define deb2(a,b) cerr<<#a<<": "<<a<<", "<<#b<<": "<<b<<endl;
 #define deb3(a,b,c) cerr<<#a<<": "<<a<<", "<<#b<<": "<<b<<", "<<#c<<": "<<c<<endl;
 #define deb4(a,b,c,d) cerr<<#a<<": "<<a<<", "<<#b<<": "<<b<<", "<<#c<<": "<<c<<", "<<#d<<": "<<d<<endl;
 #define deb5(a,b,c,d,e) cerr<<#a<<": "<<a<<", "<<#b<<": "<<b<<", "<<#c<<": "<<c<<", "<<#d<<": "<<d<<", "<<#e<<": "<<e<<endl;
 #define deb6(a,b,c,d,e,f) cerr<<#a<<": "<<a<<", "<<#b<<": "<<b<<", "<<#c<<": "<<c<<", "<<#d<<": "<<d<<", "<<#e<<": "<<e<<", "<<#f<<": "<<f<<endl;
-
+//------------------------------------------------------------------------------------------------------------------------------------
 #ifndef ONLINE_JUDGE
 #define debug(x) cerr << #x << " : "; _print(x); cerr << endl;
 #else
@@ -88,64 +62,62 @@ template<class T> void _print(vector<T> v) {cerr << "[ "; for (T i : v) {_print(
 template<class T> void _print(set<T> v) {cerr << "[ "; for (T i : v) {_print(i); cerr << " ";} cerr << "]";}
 template<class T> void _print(multiset<T> v) {cerr << "[ "; for (T i : v) {_print(i); cerr << " ";} cerr << "]";}
 template<class T, class V> void _print(map<T, V> v) {cerr << "[ "; for (auto i : v) {_print(i); cerr << " ";} cerr << "]";}
-
-//---------------------------------  F U N C T I O N S  ---------------------------------
+template<class T, class V> void _print(UMP<T, V> v) {cerr << "[ "; for (auto i : v) {_print(i); cerr << " ";} cerr << "]";}
+//------------------------------------------------------------------------------------------------------------------------------------
 
 // const int MAX_NUM = 200000;
-// priority_queue<int, vint, gint> pq;
+// priority_queue<int, V<int>, G<int>> pq;
 /* pass an arry of size 3 */
-// void extendgcd(ll a,ll b,ll* v){if(b==0){v[0]=1;v[1]=0;v[2]=a;return;}extendgcd(b,a%b,v);ll x=v[1];v[1]=v[0]-v[1]*(a/b);v[0]=x;return;}
-// ll gcd(ll a, ll b) {if(a>b) swap(a,b);if(a==0) return 0;if(b%a) return gcd(a,b-a);return a;}
-// ll lcm(ll a, ll b) {return (a/gcd(a,b)*b);}
-// ll pow(ll x, ll y) {ll r=1; while(y>0) {if(y&1) r*=x;y=y>>1;x=(x*x)%MOD;}return r;}
-// ll expo(ll a, ll b, ll mod) {ll res=1; while(b>0){if(b&1)res=(res*a)%mod;a=(a*a)%mod;b=b>>1;} return res;}
-// ll mminv(ll a, ll b) {ll arr[3]; extendgcd(a, b, arr); return arr[0];} //for non prime b
-// ll mminvprime(ll a, ll b) {return expo(a, b-2, b);}
-// ll mod_add(ll a, ll b, ll m) {a = a%m; b = b%m; return (((a + b) % m) + m)%m;}
-// ll mod_mul(ll a, ll b, ll m) {a = a%m; b = b%m; return (((a * b) % m) + m)%m;}
-// ll mod_sub(ll a, ll b, ll m) {a = a%m; b = b%m; return (((a - b) % m) + m)%m;}
-// ll mod_div(ll a, ll b, ll m) {a = a%m; b = b%m; return (mod_mul(a,mminvprime(b,m),m)+m)%m;} //only for prime m
-// bool isPowerOf2 (ll x) {return x && (!(x & (x - 1)));}
-// bool isPrime(ll n) {if(n<=1) return false; FOR(i,2,n) {if(n%i==0) return false;} return true;}
-// bool isSortedArr(ll arr[], ll n) {FOR(i,0,n-1){if(arr[i]>arr[i+1]) return false;}return true;}
-// bool isSortedVec(vll v) {FOR(i,0,sz(v)-1){if(v[i]>v[i+1]) return false;}return true;}
+void extendgcd(ll a, ll b, ll* v) {if (b == 0) {v[0] = 1; v[1] = 0; v[2] = a; return;} extendgcd(b, a % b, v); ll x = v[1]; v[1] = v[0] - v[1] * (a / b); v[0] = x; return;}
+ll gcd(ll a, ll b) {if (a > b) swap(a, b); if (a == 0) return 0; if (b % a) return gcd(a, b - a); return a;}
+ll lcm(ll a, ll b) {return (a / gcd(a, b) * b);}
+ll pow(ll x, ll y) {ll r = 1; while (y > 0) {if (y & 1) r *= x; y = y >> 1; x = (x * x) % MOD;} return r;}
+ll expo(ll a, ll b, ll mod) {ll res = 1; while (b > 0) {if (b & 1)res = (res * a) % mod; a = (a * a) % mod; b = b >> 1;} return res;}
+ll mminv(ll a, ll b) {ll arr[3]; extendgcd(a, b, arr); return arr[0];} //for non prime b
+ll mminvprime(ll a, ll b) {return expo(a, b - 2, b);}
+ll mod_add(ll a, ll b, ll m) {a = a % m; b = b % m; return (((a + b) % m) + m) % m;}
+ll mod_mul(ll a, ll b, ll m) {a = a % m; b = b % m; return (((a * b) % m) + m) % m;}
+ll mod_sub(ll a, ll b, ll m) {a = a % m; b = b % m; return (((a - b) % m) + m) % m;}
+ll mod_div(ll a, ll b, ll m) {a = a % m; b = b % m; return (mod_mul(a, mminvprime(b, m), m) + m) % m;} //only for prime m
+bool isPowerOf2 (ll x) {return x && (!(x & (x - 1)));}
+bool isPrime(ll n) {if (n <= 1) return false; FOR(i, 2, sqrt(n) + 1) {if (n % i == 0) return false;} return true;}
+bool isSortedArr(ll arr[], ll n) {FOR(i, 0, n - 1) {if (arr[i] > arr[i + 1]) return false;} return true;}
+bool isSortedVec(V<ll> v) {FOR(i, 0, sz(v) - 1) {if (v[i] > v[i + 1]) return false;} return true;}
+//------------------------------------------------------------------------------------------------------------------------------------
 
-//----------------------------------  S O L V E  ----------------------------------
-
-void solve() {
-    preciseIO();
-    ll x; cin >> x;
-    while(x--){
-        ll n; cin >> n;
-        ll m = n*n + 2*n;
-        deb2(n, m);
-        cout << m << " ";
+class Solution {
+public:
+	void solve() {
+	    preciseIO(); fastIO();
+        ll x; cin >> x;
+        while(x--){
+            ll n; cin >> n;
+            ll m = n*n + 2*n;
+            deb2(n, m);
+            cout << m << " ";
+        }
+        cout << endl;
     }
-    cout << endl;
-}
-
-//-----------------------------------  M A I N  -----------------------------------
+};
 
 int main() {
-    fastIO();
-
+	preciseIO(); fastIO();
 #ifndef ONLINE_JUDGE
-    freopen("input1.txt", "r", stdin);
-    freopen("output1.txt", "w", stdout);
-    freopen("error.txt", "w", stderr);
+	freopen("input1.txt", "r", stdin);
+	freopen("output1.txt", "w", stdout);
+	freopen("error.txt", "w", stderr);
 #else
-    //online submission
+	//online submission
 #endif
-    auto start1 = high_resolution_clock::now();
-
-    int test = 1;
-    cin >> test;
-    while(test--){
-        solve();
-    };
-
-    auto stop1 = high_resolution_clock::now();
-    auto duration = duration_cast<nanoseconds>(stop1 - start1);
-    cerr << "\n[Completed in " << ((ld)duration.count()) / ((ld)1e9) << "s]" << endl;
-    return 0;
+	auto start1 = high_resolution_clock::now();
+	int test = 1;
+	cin >> test;
+	while (test--) {
+		Solution obj;
+		obj.solve();
+	}
+	auto stop1 = high_resolution_clock::now();
+	auto duration = duration_cast<nanoseconds>(stop1 - start1);
+	cerr << "\n[Completed in " << ((ld)duration.count()) / ((ld)1e9) << "s]" << endl;
+	return 0;
 }
