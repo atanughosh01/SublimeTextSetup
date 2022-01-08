@@ -59,7 +59,7 @@ int main() {
 #else
 #endif
     int test = 1;
-    // cin >> test;
+    cin >> test;
     while(test--){
         solve();
     }

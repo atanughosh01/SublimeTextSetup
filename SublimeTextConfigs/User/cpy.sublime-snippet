@@ -154,7 +154,7 @@ int main() {
 #endif
     auto start1 = high_resolution_clock::now();
     int test = 1;
-    // cin >> test;
+    cin >> test;
     while(test--){
         solve();
     }
