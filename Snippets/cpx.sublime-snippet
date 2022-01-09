@@ -2,7 +2,7 @@
     <content><![CDATA[
 // Problem : 
 
-#include <bits/stdc++.h>
+#include<bits/stdc++.h>
 using namespace std;
 using namespace chrono;
 typedef long long ll;
@@ -65,7 +65,7 @@ template<class T, class V> void _print(UMP<T, V> v) {cerr << "[ "; for (auto i :
 //------------------------------------------------------------------------------------------------------------------------------------
 
 // const int MAX_NUM = 200000;
-// priority_queue<int, vint, gint> pq;
+// priority_queue<int, V<int>, G<int>> pq;
 /* pass an arry of size 3 */
 // void extendgcd(ll a,ll b,ll* v){if(b==0){v[0]=1;v[1]=0;v[2]=a;return;}extendgcd(b,a%b,v);ll x=v[1];v[1]=v[0]-v[1]*(a/b);v[0]=x;return;}
 // ll gcd(ll a, ll b) {if(a>b) swap(a,b);if(a==0) return 0;if(b%a) return gcd(a,b-a);return a;}
@@ -87,13 +87,13 @@ template<class T, class V> void _print(UMP<T, V> v) {cerr << "[ "; for (auto i :
 class Solution {
 public:
     void solve() {
-        preciseIO();
+        preciseIO(); fastIO();
         ll n; cin >> n;
     }
 };
 
 int main() {
-    fastIO();
+    preciseIO(); fastIO();
 #ifndef ONLINE_JUDGE
     freopen("input1.txt", "r", stdin);
     freopen("output1.txt", "w", stdout);
