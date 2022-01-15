@@ -21,6 +21,7 @@ typedef unsigned long long ull;
 #define UMP unordered_map
 #define sz(x) ((ll)(x).size())
 #define all(x) (x).begin(),(x).end()
+#define rall(x) (x).rbegin(),(x).rend()
 #define mems(x,y) memset(x, y, sizeof(x))
 #define input(a,n) FOR(i,0,n) cin>>a[i];
 #define output(a,n,sep) FOR(i,0,n) cout<<a[i]<<sep;
