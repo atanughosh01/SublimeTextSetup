@@ -14,22 +14,6 @@ typedef unsigned long long ull;
 //------------------------------
 #define ff first
 #define ss second
-#define mp make_pair
-#define pb push_back
-#define pf push_front
-#define popb pop_back
-#define eb emplace_back
-#define ffo find_first_of
-#define flo find_last_of
-#define pll pair<ll,ll>
-#define pi pair<int,int>
-#define vi vector<int>
-#define vll vector<ll>
-#define vc vector<char>
-#define vs vector<string>
-#define vvi vector<vector<int>>
-#define vvll vector<vector<ll>>
-//------------------------------
 #define endl "\n"
 #define INF (ll)1e18
 #define MOD (ll)1e9+7
