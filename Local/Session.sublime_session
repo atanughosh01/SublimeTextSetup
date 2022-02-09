@@ -1,0 +1,2564 @@
+{
+	"folder_history":
+	[
+		"/C/Users/2001a/Documents/GitHub/CPP-STL-Primer",
+		"/C/Users/2001a/Documents/GitHub/CPMaster",
+		"/C/Users/2001a/Downloads/1633",
+		"/C/Users/2001a/Documents/GitHub/Data-structures-and-algorithms",
+		"/C/Users/2001a/Documents",
+		"/C/Users/2001a",
+		"/C/Users/2001a/Documents/GitHub/algorithmic-problem-solving",
+		"/C/Users/2001a/Documents/GitHub/sublime-text-setup",
+		"/C/Users/2001a/Documents/GitHub/C4E_Coursera",
+		"/C/Users/2001a/Documents/GitHub/Network-Simulations",
+		"/C/Users/2001a/Downloads/Arko",
+		"/C/Users/2001a/Documents/GitHub/Network-Simulations/2_FlowControl/src/Trial2",
+		"/C/Users/2001a/Documents/GitHub/Network-Simulations/3_CSMA",
+		"/C/Users/2001a/Documents/zzz/CN_Assignment_4",
+		"/C/Users/2001a/Documents/zzz/CN_Assignment_3/Arko",
+		"/C/Users/2001a/Music/test",
+		"/C/Users/2001a/Documents/GitHub/Network-Simulations/FlowControl",
+		"/C/Users/2001a/Documents/GitHub/Udemy",
+		"/C/Users/2001a/Dropbox/PC/Documents/Codes/Chiru_CN",
+		"/C/Users/2001a/Dropbox/PC/Documents/Java_Assignments",
+		"/C/Users/2001a/Dropbox/PC/Documents/Codes"
+	],
+	"last_version": 4126,
+	"last_window_id": 72,
+	"log_indexing": false,
+	"next_update_check": 1644489775,
+	"settings":
+	{
+		"new_window_full_screen": false,
+		"new_window_height": 470.943396226,
+		"new_window_maximized": true,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"cp",
+						"cpsnip"
+					],
+					[
+						"s",
+						"s1"
+					],
+					[
+						"sol",
+						"solve3"
+					],
+					[
+						"emp",
+						"emplace_back"
+					],
+					[
+						"inc",
+						"include"
+					],
+					[
+						"is",
+						"isPowOf2"
+					],
+					[
+						"no",
+						"node2"
+					],
+					[
+						"MO",
+						"MOD"
+					],
+					[
+						"cpsnip",
+						"cpsnip"
+					],
+					[
+						"def",
+						"define"
+					],
+					[
+						"cpp",
+						"cpsnip"
+					],
+					[
+						"su",
+						"subsLst"
+					],
+					[
+						"deb",
+						"debug"
+					],
+					[
+						"mem",
+						"memset"
+					],
+					[
+						"solve",
+						"solve3"
+					],
+					[
+						"ma",
+						"maxCnt"
+					],
+					[
+						"v",
+						"vector"
+					],
+					[
+						"en",
+						"end"
+					],
+					[
+						"fo",
+						"FOR"
+					],
+					[
+						"solv",
+						"solve2"
+					],
+					[
+						"be",
+						"beginend"
+					],
+					[
+						"l",
+						"length"
+					],
+					[
+						"cou",
+						"cout"
+					],
+					[
+						"beg",
+						"beginend"
+					],
+					[
+						"to",
+						"toupper"
+					],
+					[
+						"co",
+						"cout"
+					],
+					[
+						"m",
+						"maxPower"
+					],
+					[
+						"scor",
+						"scoreList"
+					]
+				]
+			},
+			"build_system_choices":
+			[
+				[
+					[
+						[
+							"Packages/C++/C Single File.sublime-build",
+							""
+						],
+						[
+							"Packages/C++/C Single File.sublime-build",
+							"Run"
+						]
+					],
+					[
+						"Packages/C++/C Single File.sublime-build",
+						"Run"
+					]
+				],
+				[
+					[
+						[
+							"Packages/C++/C++ Single File.sublime-build",
+							""
+						],
+						[
+							"Packages/C++/C++ Single File.sublime-build",
+							"Run"
+						]
+					],
+					[
+						"Packages/C++/C++ Single File.sublime-build",
+						"Run"
+					]
+				],
+				[
+					[
+						[
+							"Packages/C++/C++ Single File.sublime-build",
+							""
+						],
+						[
+							"Packages/C++/C++ Single File.sublime-build",
+							"Run"
+						],
+						[
+							"Packages/User/C++ 14.sublime-build",
+							""
+						],
+						[
+							"Packages/User/C++ 14.sublime-build",
+							"Run"
+						]
+					],
+					[
+						"Packages/C++/C++ Single File.sublime-build",
+						"Run"
+					]
+				],
+				[
+					[
+						[
+							"Packages/Python/Python.sublime-build",
+							""
+						],
+						[
+							"Packages/Python/Python.sublime-build",
+							"Syntax Check"
+						]
+					],
+					[
+						"Packages/Python/Python.sublime-build",
+						""
+					]
+				],
+				[
+					[
+						[
+							"Packages/User/C++ 14.sublime-build",
+							""
+						],
+						[
+							"Packages/User/C++ 14.sublime-build",
+							"Run"
+						]
+					],
+					[
+						"Packages/User/C++ 14.sublime-build",
+						"Run"
+					]
+				]
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"fo",
+						"SublimeAStyleFormatter: Format Current File"
+					],
+					[
+						"for",
+						"SublimeAStyleFormatter: Format Current File"
+					],
+					[
+						"buil",
+						"Build: Cancel"
+					],
+					[
+						"auto",
+						"Toggle AutoSave: all files"
+					],
+					[
+						"au",
+						"Toggle AutoSave: all files"
+					],
+					[
+						"forma",
+						"SublimeAStyleFormatter: Format Current File"
+					],
+					[
+						"aut",
+						"Toggle AutoSave: all files"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"pac",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 128.981124878,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/C/Users/2001a/Documents/GitHub/CPP-STL-Primer/011_START25B_DIV2/01.cpp",
+				"/C/Users/2001a/Documents/GitHub/CPP-STL-Primer/Containers/Associative_Containers/set.cpp",
+				"/C/Users/2001a/Documents/GitHub/CPP-STL-Primer/Containers/Associative_Containers/zerr.txt",
+				"/C/Users/2001a/Documents/GitHub/CPP-STL-Primer/Containers/Associative_Containers/zout.txt",
+				"/C/Users/2001a/Documents/GitHub/CPP-STL-Primer/Containers/Associative_Containers/zin.txt",
+				"/C/Users/2001a/Documents/GitHub/CPP-STL-Primer/011_START25B_DIV2/02.cpp",
+				"/C/Users/2001a/Documents/GitHub/CPP-STL-Primer/011_START25B_DIV2/05.cpp",
+				"/C/Users/2001a/Documents/GitHub/CPP-STL-Primer/011_START25B_DIV2/04.cpp",
+				"/C/Users/2001a/Documents/GitHub/CPP-STL-Primer/011_START25B_DIV2/03.cpp",
+				"/C/Users/2001a/Documents/GitHub/CPP-STL-Primer/011_START25B_DIV2/help.cpp",
+				"/C/Users/2001a/Documents/GitHub/CPP-STL-Primer/011_START25B_DIV2/old.cpp",
+				"/C/Users/2001a/Documents/GitHub/CPP-STL-Primer/011_START25B_DIV2/new.cpp",
+				"/C/Users/2001a/Documents/GitHub/CPP-STL-Primer/011_START25B_DIV2/temp.cpp",
+				"/C/Users/2001a/Documents/GitHub/CPP-STL-Primer/011_START25B_DIV2/zin.txt",
+				"/C/Users/2001a/Documents/GitHub/CPP-STL-Primer/011_START25B_DIV2/zerr.txt",
+				"/C/Users/2001a/Documents/GitHub/CPP-STL-Primer/Containers/Sequence_Containers/array.cpp",
+				"/C/Users/2001a/Documents/GitHub/CPP-STL-Primer/Containers/Sequence_Containers/zin.txt",
+				"/C/Users/2001a/Documents/GitHub/CPP-STL-Primer/Containers/Sequence_Containers/zout.txt",
+				"/C/Users/2001a/Documents/GitHub/CPP-STL-Primer/Containers/Sequence_Containers/zerr.txt",
+				"/C/Users/2001a/Documents/GitHub/CPP-STL-Primer/Containers/Unordered_Associative_Containers/unordered_set.cpp",
+				"/C/Users/2001a/Documents/GitHub/CPP-STL-Primer/Containers/Unordered_Associative_Containers/unordered_multiset.cpp",
+				"/C/Users/2001a/Documents/GitHub/CPP-STL-Primer/Containers/Unordered_Associative_Containers/unordered_multimap.cpp",
+				"/C/Users/2001a/Documents/GitHub/CPP-STL-Primer/Containers/Unordered_Associative_Containers/unordered_map.cpp",
+				"/C/Users/2001a/Documents/GitHub/CPP-STL-Primer/Containers/Sequence_Containers/vector.cpp",
+				"/C/Users/2001a/Documents/GitHub/CPP-STL-Primer/Containers/Sequence_Containers/list.cpp",
+				"/C/Users/2001a/Documents/GitHub/CPP-STL-Primer/Containers/Sequence_Containers/forward_list.cpp",
+				"/C/Users/2001a/Documents/GitHub/CPP-STL-Primer/Containers/Sequence_Containers/deque.cpp",
+				"/C/Users/2001a/Documents/GitHub/CPP-STL-Primer/Containers/Container_Adaptors/stack.cpp",
+				"/C/Users/2001a/Documents/GitHub/CPP-STL-Primer/Containers/Container_Adaptors/queue.cpp",
+				"/C/Users/2001a/Documents/GitHub/CPP-STL-Primer/Containers/Container_Adaptors/priority_queue.cpp",
+				"/C/Users/2001a/Documents/GitHub/CPP-STL-Primer/Containers/Associative_Containers/practice.cpp",
+				"/C/Users/2001a/Documents/GitHub/CPP-STL-Primer/Containers/Associative_Containers/multiset.cpp",
+				"/C/Users/2001a/Documents/GitHub/CPP-STL-Primer/Containers/Associative_Containers/multimap.cpp",
+				"/C/Users/2001a/Documents/GitHub/CPP-STL-Primer/Containers/Associative_Containers/map.cpp",
+				"/C/Users/2001a/Documents/GitHub/CPMaster/CodeChef/010_FEB221C_DIV3/zin.txt",
+				"/C/Users/2001a/Documents/GitHub/CPMaster/CodeChef/010_FEB221C_DIV3/zout.txt",
+				"/C/Users/2001a/Documents/GitHub/CPMaster/CodeChef/010_FEB221C_DIV3/zerr.txt",
+				"/C/Users/2001a/Documents/GitHub/CPMaster/CodeChef/010_FEB221C_DIV3/04_BITBLEND.cpp",
+				"/C/Users/2001a/Documents/GitHub/CPMaster/CodeChef/010_FEB221C_DIV3/test.cpp",
+				"/C/Users/2001a/Documents/GitHub/CPMaster/CodeChef/010_FEB221C_DIV3/temp.cpp",
+				"/C/Users/2001a/Documents/GitHub/CPMaster/CodeChef/010_FEB221C_DIV3/new_old.cpp",
+				"/C/Users/2001a/Documents/GitHub/CPMaster/CodeChef/010_FEB221C_DIV3/new.cpp",
+				"/C/Users/2001a/Documents/GitHub/CPMaster/CodeChef/010_FEB221C_DIV3/05_REMADJ.cpp",
+				"/C/Users/2001a/AppData/Roaming/Sublime Text/Packages/User/cpv.sublime-snippet",
+				"/C/Users/2001a/Documents/GitHub/CPMaster/CodeChef/010_FEB221C_DIV3/03_BINBASBASIC.cpp",
+				"/C/Users/2001a/Documents/GitHub/CPMaster/CodeChef/010_FEB221C_DIV3/02_EUREKA.cpp",
+				"/C/Users/2001a/Documents/GitHub/CPMaster/CodeChef/010_FEB221C_DIV3/01_CHEFBARBER.cpp",
+				"/C/Users/2001a/Documents/GitHub/CPMaster/CodeForces/1100/zerr.txt",
+				"/C/Users/2001a/Documents/GitHub/CPMaster/CodeForces/1100/zout.txt",
+				"/C/Users/2001a/Documents/GitHub/CPMaster/CodeForces/1100/zin.txt",
+				"/C/Users/2001a/Documents/GitHub/CPMaster/CodeForces/1100/1366A.cpp",
+				"/C/Users/2001a/Documents/GitHub/CPMaster/CodeForces/1100/1324B.cpp",
+				"/C/Users/2001a/Documents/GitHub/CPMaster/CodeForces/1100/1409B.cpp",
+				"/C/Users/2001a/Documents/GitHub/CPMaster/CodeForces/1100/467B.cpp",
+				"/C/Users/2001a/Documents/GitHub/CPMaster/CodeForces/1100/1360C.cpp",
+				"/C/Users/2001a/Documents/GitHub/CPMaster/CodeForces/1100/new.cpp",
+				"/C/Users/2001a/Documents/GitHub/CPMaster/CodeForces/1100/output1.txt",
+				"/C/Users/2001a/Documents/GitHub/CPMaster/CodeForces/1100/error.txt",
+				"/C/Users/2001a/Documents/GitHub/CPMaster/CodeForces/1100/input1.txt",
+				"/C/Users/2001a/AppData/Roaming/Sublime Text/Packages/User/cpz.sublime-snippet",
+				"/C/Users/2001a/AppData/Roaming/Sublime Text/Packages/User/cpy.sublime-snippet",
+				"/C/Users/2001a/AppData/Roaming/Sublime Text/Packages/User/cpx.sublime-snippet",
+				"/C/Users/2001a/AppData/Roaming/Sublime Text/Packages/User/cpw.sublime-snippet",
+				"/C/Users/2001a/Downloads/memory_resource",
+				"/C/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/experimental/memory_resource",
+				"/C/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/stdc++.h",
+				"/C/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/stdtr1c++.h",
+				"/C/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/stdtr1++.h",
+				"/C/Users/2001a/Downloads/temp.h",
+				"/C/Users/2001a/Documents/GitHub/CPMaster/CodeForces/1100/temp.cpp",
+				"/C/Users/2001a/Documents/GitHub/CPP-STL-Primer/Containers/Associative_Containers/input1.txt",
+				"/C/Users/2001a/Downloads/1633/error.txt",
+				"/C/Users/2001a/Downloads/1633/output1.txt",
+				"/C/Users/2001a/Downloads/1633/input1.txt",
+				"/C/Users/2001a/Downloads/1633/temp.cpp",
+				"/C/Users/2001a/Downloads/1633/04_DIVREC.cpp",
+				"/C/Users/2001a/Downloads/1633/03_ANTI_PAL.cpp",
+				"/C/Users/2001a/Downloads/1633/02_ORANDCON.cpp",
+				"/C/Users/2001a/Downloads/1633/01_AVOIDCONTACT.cpp",
+				"/C/Users/2001a/Downloads/1633/BADMINTON.cpp",
+				"/C/Users/2001a/Downloads/1633/EVMHACK.cpp",
+				"/C/Users/2001a/Downloads/1633/not.cpp",
+				"/C/Users/2001a/Downloads/1633/04.cpp",
+				"/C/Users/2001a/Downloads/1633/ok.cpp",
+				"/C/Users/2001a/Downloads/1633/03.cpp",
+				"/C/Users/2001a/Downloads/1633/02.cpp",
+				"/C/Users/2001a/Downloads/1633/01.cpp",
+				"/C/Users/2001a/Downloads/1633/05.cpp",
+				"/C/Users/2001a/Downloads/1633/1633D.cpp",
+				"/C/Users/2001a/Documents/GitHub/CPMaster/CodeForces/1000/output1.txt",
+				"/C/Users/2001a/Documents/GitHub/CPMaster/CodeForces/error.txt",
+				"/C/Users/2001a/Documents/GitHub/CPMaster/CodeForces/output1.txt",
+				"/C/Users/2001a/Documents/GitHub/CPMaster/CodeForces/input1.txt",
+				"/C/Users/2001a/Documents/GitHub/CPMaster/CodeForces/1632A.cpp",
+				"/C/Users/2001a/Documents/GitHub/CPMaster/CodeForces/1632C.cpp",
+				"/C/Users/2001a/Documents/GitHub/CPMaster/CodeForces/1632B.cpp",
+				"/C/Users/2001a/Documents/GitHub/CPMaster/CodeForces/temp.cpp",
+				"/C/Users/2001a/Documents/GitHub/CPMaster/CodeForces/1632D.cpp",
+				"/C/Users/2001a/Documents/GitHub/CPMaster/CodeChef/008_LTIME104B_DIV2/input1.txt",
+				"/C/Users/2001a/Documents/GitHub/CPMaster/CodeChef/008_LTIME104B_DIV2/C.cpp",
+				"/C/Users/2001a/Documents/GitHub/CPMaster/CodeChef/008_LTIME104B_DIV2/error.txt",
+				"/C/Users/2001a/Documents/GitHub/CPMaster/CodeChef/008_LTIME104B_DIV2/output1.txt",
+				"/C/Users/2001a/Documents/GitHub/CPMaster/CodeChef/008_LTIME104B_DIV2/temp.cpp",
+				"/C/Users/2001a/Documents/GitHub/CPMaster/CodeChef/008_LTIME104B_DIV2/B.cpp",
+				"/C/Users/2001a/Documents/GitHub/CPMaster/CodeChef/008_LTIME104B_DIV2/A.cpp",
+				"/C/Users/2001a/Documents/GitHub/CPMaster/CodeChef/008_LTIME104B_DIV2/03_PERMXORSUM.cpp",
+				"/C/Users/2001a/Documents/GitHub/CPMaster/CodeChef/008_LTIME104B_DIV2/02_PREZ.cpp",
+				"/C/Users/2001a/Documents/GitHub/CPMaster/CodeChef/008_LTIME104B_DIV2/01_SUBPERM.cpp",
+				"/C/Users/2001a/Documents/GitHub/CPMaster/CodeChef/008_LTIME104B_DIV2/04.cpp",
+				"/C/Users/2001a/Documents/GitHub/CPMaster/CodeChef/008_LTIME104B_DIV2/SUBSTADD.cpp",
+				"/C/Users/2001a/Documents/GitHub/CPMaster/CodeChef/008_LTIME104B_DIV2/LOCKDRAW.cpp",
+				"/C/Users/2001a/Documents/GitHub/CPMaster/CodeChef/008_LTIME104B_DIV2/03.cpp",
+				"/C/Users/2001a/Documents/GitHub/CPMaster/CodeChef/008_LTIME104B_DIV2/new.cpp",
+				"/C/Users/2001a/Documents/GitHub/CPMaster/CodeChef/008_LTIME104B_DIV2/02.cpp",
+				"/C/Users/2001a/Documents/GitHub/CPMaster/CodeChef/008_LTIME104B_DIV2/01.cpp",
+				"/C/Users/2001a/Documents/GitHub/CPMaster/CodeChef/008_LTIME104B_DIV2/06.cpp",
+				"/C/Users/2001a/Documents/GitHub/CPMaster/CodeChef/008_LTIME104B_DIV2/05.cpp",
+				"/C/Users/2001a/Documents/GitHub/CPMaster/CodeForces/1000/error.txt",
+				"/C/Users/2001a/Documents/GitHub/CPMaster/CodeForces/1000/input1.txt",
+				"/C/Users/2001a/Documents/GitHub/CPMaster/CodeForces/1000/1473B.cpp",
+				"/C/Users/2001a/Documents/GitHub/CPMaster/CodeForces/010_#768_DIV2/B.cpp",
+				"/C/Users/2001a/Documents/GitHub/CPMaster/CodeForces/1000/1474B.cpp",
+				"/C/Users/2001a/Downloads/temp.cpp",
+				"/C/Users/2001a/Documents/GitHub/CPMaster/CodeForces/1000/1388B.cpp",
+				"/C/Users/2001a/Documents/GitHub/CPMaster/CodeForces/1000/1353C.cpp",
+				"/C/Users/2001a/Documents/GitHub/CPMaster/CodeForces/1000/1333A.cpp",
+				"/C/Users/2001a/Documents/GitHub/CPMaster/CodeForces/1000/1359B.cpp",
+				"/C/Users/2001a/Documents/GitHub/CPMaster/CodeForces/1000/1374C.cpp"
+			],
+			"find":
+			{
+				"height": 26.2641509434
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": true,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"scrollbar_highlights": true,
+				"show_context": true,
+				"use_buffer2": true,
+				"use_gitignore": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 26.2641509434
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"menu_visible": true,
+			"output.astyle_error_message":
+			{
+				"height": 0.0
+			},
+			"output.exec":
+			{
+				"height": 57.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "Packages/User/CPP17.sublime-build",
+			"replace":
+			{
+				"height": 48.9056603774
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": false,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 231.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 911.094339623
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"cp",
+						"cpsnip"
+					],
+					[
+						"s",
+						"s1"
+					],
+					[
+						"sol",
+						"solve3"
+					],
+					[
+						"emp",
+						"emplace_back"
+					],
+					[
+						"inc",
+						"include"
+					],
+					[
+						"is",
+						"isPowOf2"
+					],
+					[
+						"no",
+						"node2"
+					],
+					[
+						"MO",
+						"MOD"
+					],
+					[
+						"cpsnip",
+						"cpsnip"
+					],
+					[
+						"def",
+						"define"
+					],
+					[
+						"cpp",
+						"cpsnip"
+					],
+					[
+						"su",
+						"subsLst"
+					],
+					[
+						"deb",
+						"debug"
+					],
+					[
+						"mem",
+						"memset"
+					],
+					[
+						"solve",
+						"solve3"
+					],
+					[
+						"ma",
+						"maxCnt"
+					],
+					[
+						"v",
+						"vector"
+					],
+					[
+						"en",
+						"end"
+					],
+					[
+						"fo",
+						"FOR"
+					],
+					[
+						"solv",
+						"solve2"
+					],
+					[
+						"be",
+						"beginend"
+					],
+					[
+						"l",
+						"length"
+					],
+					[
+						"cou",
+						"cout"
+					],
+					[
+						"beg",
+						"beginend"
+					],
+					[
+						"to",
+						"toupper"
+					],
+					[
+						"co",
+						"cout"
+					],
+					[
+						"m",
+						"maxPower"
+					],
+					[
+						"scor",
+						"scoreList"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/C/Users/2001a/Documents/GitHub/CPP-STL-Primer/011_START25B_DIV2/02.cpp",
+					"settings":
+					{
+						"buffer_size": 6536,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					},
+					"undo_stack":
+					[
+						[
+							9,
+							1,
+							"insert",
+							{
+								"characters": "\nprivate"
+							},
+							"CQAAAJUWAAAAAAAAlhYAAAAAAAAAAAAAlhYAAAAAAACXFgAAAAAAAAAAAACXFgAAAAAAAJgWAAAAAAAAAAAAAJgWAAAAAAAAmRYAAAAAAAAAAAAAmRYAAAAAAACaFgAAAAAAAAAAAACaFgAAAAAAAJsWAAAAAAAAAAAAAJsWAAAAAAAAnBYAAAAAAAAAAAAAnBYAAAAAAACdFgAAAAAAAAAAAACdFgAAAAAAAJ4WAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAlRYAAAAAAACVFgAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							10,
+							1,
+							"insert",
+							{
+								"characters": ":"
+							},
+							"AwAAAJ4WAAAAAAAAnxYAAAAAAAAAAAAAlhYAAAAAAACWFgAAAAAAAAEAAAAJlhYAAAAAAACWFgAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAnhYAAAAAAACeFgAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							11,
+							1,
+							"insert",
+							{
+								"characters": "\n"
+							},
+							"AgAAAJ4WAAAAAAAAnxYAAAAAAAAAAAAAnxYAAAAAAACgFgAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAnhYAAAAAAACeFgAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							12,
+							1,
+							"astyleformat",
+							null,
+							"AQAAAJ8WAAAAAAAAnxYAAAAAAAABAAAACQ",
+							"AQAAAAAAAAABAAAAoBYAAAAAAACgFgAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							13,
+							1,
+							"insert",
+							{
+								"characters": "int"
+							},
+							"AwAAAJ8WAAAAAAAAoBYAAAAAAAAAAAAAoBYAAAAAAAChFgAAAAAAAAAAAAChFgAAAAAAAKIWAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAnxYAAAAAAACfFgAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							14,
+							1,
+							"insert",
+							{
+								"characters": " mex"
+							},
+							"BAAAAKIWAAAAAAAAoxYAAAAAAAAAAAAAoxYAAAAAAACkFgAAAAAAAAAAAACkFgAAAAAAAKUWAAAAAAAAAAAAAKUWAAAAAAAAphYAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAohYAAAAAAACiFgAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							15,
+							1,
+							"insert_snippet",
+							{
+								"contents": "($0)"
+							},
+							"AQAAAKYWAAAAAAAAqBYAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAphYAAAAAAACmFgAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							16,
+							1,
+							"insert",
+							{
+								"characters": "vector<"
+							},
+							"BwAAAKcWAAAAAAAAqBYAAAAAAAAAAAAAqBYAAAAAAACpFgAAAAAAAAAAAACpFgAAAAAAAKoWAAAAAAAAAAAAAKoWAAAAAAAAqxYAAAAAAAAAAAAAqxYAAAAAAACsFgAAAAAAAAAAAACsFgAAAAAAAK0WAAAAAAAAAAAAAK0WAAAAAAAArhYAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAApxYAAAAAAACnFgAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							17,
+							1,
+							"insert",
+							{
+								"characters": "int>"
+							},
+							"BAAAAK4WAAAAAAAArxYAAAAAAAAAAAAArxYAAAAAAACwFgAAAAAAAAAAAACwFgAAAAAAALEWAAAAAAAAAAAAALEWAAAAAAAAshYAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAArhYAAAAAAACuFgAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							18,
+							1,
+							"astyleformat",
+							null,
+							"AQAAAJ8WAAAAAAAAoBYAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAshYAAAAAAACyFgAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							19,
+							1,
+							"insert",
+							{
+								"characters": "&"
+							},
+							"AQAAALMWAAAAAAAAtBYAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAsxYAAAAAAACzFgAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							20,
+							1,
+							"insert",
+							{
+								"characters": " arr"
+							},
+							"BAAAALQWAAAAAAAAtRYAAAAAAAAAAAAAtRYAAAAAAAC2FgAAAAAAAAAAAAC2FgAAAAAAALcWAAAAAAAAAAAAALcWAAAAAAAAuBYAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAtBYAAAAAAAC0FgAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							23,
+							1,
+							"insert_snippet",
+							{
+								"contents": "{$0}"
+							},
+							"AQAAALkWAAAAAAAAuxYAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAuRYAAAAAAAC5FgAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							24,
+							1,
+							"run_macro_file",
+							{
+								"file": "res://Packages/Default/Add Line in Braces.sublime-macro"
+							},
+							"BgAAALoWAAAAAAAAuxYAAAAAAAAAAAAAuxYAAAAAAAC8FgAAAAAAAAAAAAC8FgAAAAAAAL0WAAAAAAAAAAAAAL0WAAAAAAAAvhYAAAAAAAAAAAAAuxYAAAAAAAC7FgAAAAAAAAEAAAAJuxYAAAAAAAC9FgAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAuhYAAAAAAAC6FgAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							25,
+							1,
+							"astyleformat",
+							null,
+							"AgAAALkWAAAAAAAAuhYAAAAAAAAAAAAAvBYAAAAAAAC8FgAAAAAAAAIAAAAJCQ",
+							"AQAAAAAAAAABAAAAvRYAAAAAAAC9FgAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							30,
+							1,
+							"insert",
+							{
+								"characters": "\nint"
+							},
+							"BgAAALsWAAAAAAAAvBYAAAAAAAAAAAAAvBYAAAAAAAC9FgAAAAAAAAAAAAC9FgAAAAAAAL4WAAAAAAAAAAAAAL4WAAAAAAAAvxYAAAAAAAAAAAAAvxYAAAAAAADAFgAAAAAAAAAAAADAFgAAAAAAAMEWAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAuxYAAAAAAAC7FgAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							31,
+							1,
+							"insert",
+							{
+								"characters": " cn"
+							},
+							"AwAAAMEWAAAAAAAAwhYAAAAAAAAAAAAAwhYAAAAAAADDFgAAAAAAAAAAAADDFgAAAAAAAMQWAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAwRYAAAAAAADBFgAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							32,
+							2,
+							"left_delete",
+							null,
+							"AgAAAMMWAAAAAAAAwxYAAAAAAAABAAAAbsIWAAAAAAAAwhYAAAAAAAABAAAAYw",
+							"AQAAAAAAAAABAAAAxBYAAAAAAADEFgAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							33,
+							1,
+							"insert",
+							{
+								"characters": "ans=0"
+							},
+							"BQAAAMIWAAAAAAAAwxYAAAAAAAAAAAAAwxYAAAAAAADEFgAAAAAAAAAAAADEFgAAAAAAAMUWAAAAAAAAAAAAAMUWAAAAAAAAxhYAAAAAAAAAAAAAxhYAAAAAAADHFgAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAwhYAAAAAAADCFgAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							34,
+							1,
+							"astyleformat",
+							null,
+							"AgAAAMUWAAAAAAAAxhYAAAAAAAAAAAAAxxYAAAAAAADIFgAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAxxYAAAAAAADHFgAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							35,
+							1,
+							"insert",
+							{
+								"characters": ";"
+							},
+							"AQAAAMkWAAAAAAAAyhYAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAyRYAAAAAAADJFgAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							36,
+							1,
+							"insert",
+							{
+								"characters": "\nreturn"
+							},
+							"CAAAAMoWAAAAAAAAyxYAAAAAAAAAAAAAyxYAAAAAAADNFgAAAAAAAAAAAADNFgAAAAAAAM4WAAAAAAAAAAAAAM4WAAAAAAAAzxYAAAAAAAAAAAAAzxYAAAAAAADQFgAAAAAAAAAAAADQFgAAAAAAANEWAAAAAAAAAAAAANEWAAAAAAAA0hYAAAAAAAAAAAAA0hYAAAAAAADTFgAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAyhYAAAAAAADKFgAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							37,
+							1,
+							"insert",
+							{
+								"characters": " ans;"
+							},
+							"BQAAANMWAAAAAAAA1BYAAAAAAAAAAAAA1BYAAAAAAADVFgAAAAAAAAAAAADVFgAAAAAAANYWAAAAAAAAAAAAANYWAAAAAAAA1xYAAAAAAAAAAAAA1xYAAAAAAADYFgAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAA0xYAAAAAAADTFgAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							38,
+							1,
+							"right_delete",
+							null,
+							"AQAAANgWAAAAAAAA2BYAAAAAAAABAAAACg",
+							"AQAAAAAAAAABAAAA2BYAAAAAAADYFgAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							42,
+							1,
+							"insert",
+							{
+								"characters": "\nint"
+							},
+							"BQAAAMoWAAAAAAAAyxYAAAAAAAAAAAAAyxYAAAAAAADNFgAAAAAAAAAAAADNFgAAAAAAAM4WAAAAAAAAAAAAAM4WAAAAAAAAzxYAAAAAAAAAAAAAzxYAAAAAAADQFgAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAyhYAAAAAAADKFgAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							43,
+							1,
+							"insert",
+							{
+								"characters": " n="
+							},
+							"AwAAANAWAAAAAAAA0RYAAAAAAAAAAAAA0RYAAAAAAADSFgAAAAAAAAAAAADSFgAAAAAAANMWAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAA0BYAAAAAAADQFgAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							44,
+							1,
+							"astyleformat",
+							null,
+							"AgAAANIWAAAAAAAA0xYAAAAAAAAAAAAA1xYAAAAAAADbFgAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAA0xYAAAAAAADTFgAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							45,
+							1,
+							"insert",
+							{
+								"characters": "sz"
+							},
+							"AgAAANQWAAAAAAAA1RYAAAAAAAAAAAAA1RYAAAAAAADWFgAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAA1BYAAAAAAADUFgAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							46,
+							1,
+							"insert_snippet",
+							{
+								"contents": "($0)"
+							},
+							"AQAAANYWAAAAAAAA2BYAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAA1hYAAAAAAADWFgAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							47,
+							1,
+							"astyleformat",
+							null,
+							"AgAAANQWAAAAAAAA1RYAAAAAAAAAAAAA3BYAAAAAAADgFgAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAA1xYAAAAAAADXFgAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							48,
+							1,
+							"insert",
+							{
+								"characters": "arr"
+							},
+							"AwAAANgWAAAAAAAA2RYAAAAAAAAAAAAA2RYAAAAAAADaFgAAAAAAAAAAAADaFgAAAAAAANsWAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAA2BYAAAAAAADYFgAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							51,
+							1,
+							"insert",
+							{
+								"characters": ";"
+							},
+							"AQAAANwWAAAAAAAA3RYAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAA3BYAAAAAAADcFgAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							52,
+							1,
+							"astyleformat",
+							null,
+							"AQAAAOAWAAAAAAAA4BYAAAAAAAAIAAAAICAgICAgICA",
+							"AQAAAAAAAAABAAAA3RYAAAAAAADdFgAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							53,
+							1,
+							"insert",
+							{
+								"characters": "\n"
+							},
+							"AgAAAN0WAAAAAAAA3hYAAAAAAAAAAAAA3hYAAAAAAADgFgAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAA3RYAAAAAAADdFgAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							54,
+							1,
+							"astyleformat",
+							null,
+							"AQAAAN4WAAAAAAAA3hYAAAAAAAACAAAACQk",
+							"AQAAAAAAAAABAAAA4BYAAAAAAADgFgAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							55,
+							1,
+							"insert",
+							{
+								"characters": "for"
+							},
+							"AwAAAN4WAAAAAAAA3xYAAAAAAAAAAAAA3xYAAAAAAADgFgAAAAAAAAAAAADgFgAAAAAAAOEWAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAA3hYAAAAAAADeFgAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							56,
+							1,
+							"insert_snippet",
+							{
+								"contents": "($0)"
+							},
+							"AQAAAOEWAAAAAAAA4xYAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAA4RYAAAAAAADhFgAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							57,
+							1,
+							"insert",
+							{
+								"characters": "int"
+							},
+							"AwAAAOIWAAAAAAAA4xYAAAAAAAAAAAAA4xYAAAAAAADkFgAAAAAAAAAAAADkFgAAAAAAAOUWAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAA4hYAAAAAAADiFgAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							58,
+							1,
+							"insert",
+							{
+								"characters": " i=0;"
+							},
+							"BQAAAOUWAAAAAAAA5hYAAAAAAAAAAAAA5hYAAAAAAADnFgAAAAAAAAAAAADnFgAAAAAAAOgWAAAAAAAAAAAAAOgWAAAAAAAA6RYAAAAAAAAAAAAA6RYAAAAAAADqFgAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAA5RYAAAAAAADlFgAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							59,
+							1,
+							"insert",
+							{
+								"characters": " i<n;"
+							},
+							"BQAAAOoWAAAAAAAA6xYAAAAAAAAAAAAA6xYAAAAAAADsFgAAAAAAAAAAAADsFgAAAAAAAO0WAAAAAAAAAAAAAO0WAAAAAAAA7hYAAAAAAAAAAAAA7hYAAAAAAADvFgAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAA6hYAAAAAAADqFgAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							60,
+							1,
+							"astyleformat",
+							null,
+							"BwAAAN4WAAAAAAAA4BYAAAAAAAAAAAAA4xYAAAAAAADkFgAAAAAAAAAAAADqFgAAAAAAAOsWAAAAAAAAAAAAAOwWAAAAAAAA7RYAAAAAAAAAAAAA8RYAAAAAAADyFgAAAAAAAAAAAADzFgAAAAAAAPQWAAAAAAAAAAAAAPgWAAAAAAAA+RYAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAA7xYAAAAAAADvFgAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							61,
+							1,
+							"insert",
+							{
+								"characters": "++i"
+							},
+							"AwAAAPYWAAAAAAAA9xYAAAAAAAAAAAAA9xYAAAAAAAD4FgAAAAAAAAAAAAD4FgAAAAAAAPkWAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAA9hYAAAAAAAD2FgAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							63,
+							1,
+							"wrap_block",
+							{
+								"begin": "{",
+								"end": "}"
+							},
+							"AgAAAPoWAAAAAAAA+xYAAAAAAAAAAAAACxcAAAAAAAAPFwAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAA+hYAAAAAAAD6FgAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							64,
+							1,
+							"insert",
+							{
+								"characters": "\n"
+							},
+							"AwAAAPsWAAAAAAAA/BYAAAAAAAAAAAAA/BYAAAAAAAD+FgAAAAAAAAAAAAD+FgAAAAAAAP8WAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAA+xYAAAAAAAD7FgAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							65,
+							1,
+							"astyleformat",
+							null,
+							"AwAAAPYWAAAAAAAA9xYAAAAAAAAAAAAA+xYAAAAAAAD8FgAAAAAAAAAAAAD+FgAAAAAAAP4WAAAAAAAAAwAAAAkJCQ",
+							"AQAAAAAAAAABAAAA/xYAAAAAAAD/FgAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							68,
+							1,
+							"cut",
+							null,
+							"AQAAAP4WAAAAAAAA/hYAAAAAAAAPAAAACgkJCXJldHVybiBhbnM7",
+							"AQAAAAAAAAABAAAADRcAAAAAAAD+FgAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							72,
+							1,
+							"paste",
+							null,
+							"AQAAAAIXAAAAAAAAERcAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAAhcAAAAAAAACFwAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							73,
+							1,
+							"astyleformat",
+							null,
+							"AQAAAAUXAAAAAAAABRcAAAAAAAABAAAACQ",
+							"AQAAAAAAAAABAAAAERcAAAAAAAARFwAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							76,
+							1,
+							"left_delete",
+							null,
+							"AQAAAP0WAAAAAAAA/RYAAAAAAAABAAAACg",
+							"AQAAAAAAAAABAAAA/hYAAAAAAAD+FgAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							78,
+							1,
+							"insert",
+							{
+								"characters": "\n"
+							},
+							"AwAAAP0WAAAAAAAA/hYAAAAAAAAAAAAA/hYAAAAAAAAAFwAAAAAAAAAAAAAAFwAAAAAAAAEXAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAA/RYAAAAAAAD9FgAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							79,
+							1,
+							"astyleformat",
+							null,
+							"AQAAAP4WAAAAAAAA/hYAAAAAAAADAAAACQkJ",
+							"AQAAAAAAAAABAAAAARcAAAAAAAABFwAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							80,
+							1,
+							"insert",
+							{
+								"characters": "if"
+							},
+							"AgAAAP4WAAAAAAAA/xYAAAAAAAAAAAAA/xYAAAAAAAAAFwAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAA/hYAAAAAAAD+FgAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							81,
+							1,
+							"insert_snippet",
+							{
+								"contents": "($0)"
+							},
+							"AQAAAAAXAAAAAAAAAhcAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAABcAAAAAAAAAFwAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							82,
+							1,
+							"astyleformat",
+							null,
+							"AwAAAP4WAAAAAAAAARcAAAAAAAAAAAAAAxcAAAAAAAAEFwAAAAAAAAAAAAAHFwAAAAAAAAgXAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAARcAAAAAAAABFwAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							83,
+							1,
+							"insert",
+							{
+								"characters": "s"
+							},
+							"AQAAAAUXAAAAAAAABhcAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAABRcAAAAAAAAFFwAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							84,
+							1,
+							"insert_snippet",
+							{
+								"contents": "[$0]"
+							},
+							"AQAAAAYXAAAAAAAACBcAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAABhcAAAAAAAAGFwAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							86,
+							1,
+							"run_macro_file",
+							{
+								"file": "res://Packages/Default/Delete Left Right.sublime-macro"
+							},
+							"AgAAAAYXAAAAAAAABhcAAAAAAAABAAAAWwYXAAAAAAAABhcAAAAAAAABAAAAXQ",
+							"AQAAAAAAAAABAAAABxcAAAAAAAAHFwAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							87,
+							1,
+							"left_delete",
+							null,
+							"AQAAAAUXAAAAAAAABRcAAAAAAAABAAAAcw",
+							"AQAAAAAAAAABAAAABhcAAAAAAAAGFwAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							88,
+							1,
+							"insert",
+							{
+								"characters": "arr"
+							},
+							"AwAAAAUXAAAAAAAABhcAAAAAAAAAAAAABhcAAAAAAAAHFwAAAAAAAAAAAAAHFwAAAAAAAAgXAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAABRcAAAAAAAAFFwAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							90,
+							1,
+							"insert_snippet",
+							{
+								"contents": "[$0]"
+							},
+							"AQAAAAgXAAAAAAAAChcAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAACBcAAAAAAAAIFwAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							91,
+							1,
+							"insert",
+							{
+								"characters": "i"
+							},
+							"AQAAAAkXAAAAAAAAChcAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAACRcAAAAAAAAJFwAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							94,
+							1,
+							"insert",
+							{
+								"characters": "!=i"
+							},
+							"AwAAAAsXAAAAAAAADBcAAAAAAAAAAAAADBcAAAAAAAANFwAAAAAAAAAAAAANFwAAAAAAAA4XAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAACxcAAAAAAAALFwAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							99,
+							2,
+							"left_delete",
+							null,
+							"AgAAAAwXAAAAAAAADBcAAAAAAAABAAAAPQsXAAAAAAAACxcAAAAAAAABAAAAIQ",
+							"AQAAAAAAAAABAAAADRcAAAAAAAANFwAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							105,
+							1,
+							"insert",
+							{
+								"characters": "\nset<int"
+							},
+							"CQAAAN0WAAAAAAAA3hYAAAAAAAAAAAAA3hYAAAAAAADgFgAAAAAAAAAAAADgFgAAAAAAAOEWAAAAAAAAAAAAAOEWAAAAAAAA4hYAAAAAAAAAAAAA4hYAAAAAAADjFgAAAAAAAAAAAADjFgAAAAAAAOQWAAAAAAAAAAAAAOQWAAAAAAAA5RYAAAAAAAAAAAAA5RYAAAAAAADmFgAAAAAAAAAAAADmFgAAAAAAAOcWAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAA3RYAAAAAAADdFgAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							106,
+							1,
+							"insert",
+							{
+								"characters": ">"
+							},
+							"AQAAAOcWAAAAAAAA6BYAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAA5xYAAAAAAADnFgAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							107,
+							1,
+							"insert",
+							{
+								"characters": " s"
+							},
+							"AgAAAOgWAAAAAAAA6RYAAAAAAAAAAAAA6RYAAAAAAADqFgAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAA6BYAAAAAAADoFgAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							108,
+							1,
+							"insert",
+							{
+								"characters": ";"
+							},
+							"AQAAAOoWAAAAAAAA6xYAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAA6hYAAAAAAADqFgAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							112,
+							1,
+							"insert",
+							{
+								"characters": "s.insert"
+							},
+							"CQAAAA8XAAAAAAAAEBcAAAAAAAAAAAAAEBcAAAAAAAAQFwAAAAAAAAwAAABpZiAoYXJyW2ldaSkQFwAAAAAAABEXAAAAAAAAAAAAABEXAAAAAAAAEhcAAAAAAAAAAAAAEhcAAAAAAAATFwAAAAAAAAAAAAATFwAAAAAAABQXAAAAAAAAAAAAABQXAAAAAAAAFRcAAAAAAAAAAAAAFRcAAAAAAAAWFwAAAAAAAAAAAAAWFwAAAAAAABcXAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAGxcAAAAAAAAPFwAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							113,
+							1,
+							"insert_snippet",
+							{
+								"contents": "($0)"
+							},
+							"AQAAABcXAAAAAAAAGRcAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAFxcAAAAAAAAXFwAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							114,
+							1,
+							"astyleformat",
+							null,
+							"AQAAABwXAAAAAAAAHBcAAAAAAAABAAAACQ",
+							"AQAAAAAAAAABAAAAGBcAAAAAAAAYFwAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							115,
+							1,
+							"insert",
+							{
+								"characters": "arr"
+							},
+							"AwAAABgXAAAAAAAAGRcAAAAAAAAAAAAAGRcAAAAAAAAaFwAAAAAAAAAAAAAaFwAAAAAAABsXAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAGBcAAAAAAAAYFwAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							116,
+							1,
+							"insert_snippet",
+							{
+								"contents": "[$0]"
+							},
+							"AQAAABsXAAAAAAAAHRcAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAGxcAAAAAAAAbFwAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							117,
+							1,
+							"insert",
+							{
+								"characters": "i"
+							},
+							"AQAAABwXAAAAAAAAHRcAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAHBcAAAAAAAAcFwAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							121,
+							1,
+							"insert",
+							{
+								"characters": ";"
+							},
+							"AQAAAB8XAAAAAAAAIBcAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAHxcAAAAAAAAfFwAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							125,
+							1,
+							"insert",
+							{
+								"characters": "\nint"
+							},
+							"BQAAACQXAAAAAAAAJRcAAAAAAAAAAAAAJRcAAAAAAAAnFwAAAAAAAAAAAAAnFwAAAAAAACgXAAAAAAAAAAAAACgXAAAAAAAAKRcAAAAAAAAAAAAAKRcAAAAAAAAqFwAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAJBcAAAAAAAAkFwAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							126,
+							1,
+							"insert",
+							{
+								"characters": " "
+							},
+							"AQAAACoXAAAAAAAAKxcAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAKhcAAAAAAAAqFwAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							127,
+							1,
+							"insert",
+							{
+								"characters": "n"
+							},
+							"AQAAACsXAAAAAAAALBcAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAKxcAAAAAAAArFwAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							130,
+							1,
+							"left_delete",
+							null,
+							"AQAAANEWAAAAAAAA0RYAAAAAAAABAAAAbg",
+							"AQAAAAAAAAABAAAA0hYAAAAAAADSFgAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							131,
+							1,
+							"insert",
+							{
+								"characters": "m"
+							},
+							"AQAAANEWAAAAAAAA0hYAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAA0RYAAAAAAADRFgAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							136,
+							1,
+							"insert",
+							{
+								"characters": "="
+							},
+							"AQAAACwXAAAAAAAALRcAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAALBcAAAAAAAAsFwAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							137,
+							1,
+							"astyleformat",
+							null,
+							"AgAAACwXAAAAAAAALRcAAAAAAAAAAAAAMRcAAAAAAAA1FwAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAALRcAAAAAAAAtFwAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							138,
+							1,
+							"insert",
+							{
+								"characters": "sz"
+							},
+							"AgAAAC4XAAAAAAAALxcAAAAAAAAAAAAALxcAAAAAAAAwFwAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAALhcAAAAAAAAuFwAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							139,
+							1,
+							"insert_snippet",
+							{
+								"contents": "($0)"
+							},
+							"AQAAADAXAAAAAAAAMhcAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAMBcAAAAAAAAwFwAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							140,
+							1,
+							"astyleformat",
+							null,
+							"AgAAAC4XAAAAAAAALxcAAAAAAAAAAAAANhcAAAAAAAA6FwAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAMRcAAAAAAAAxFwAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							141,
+							1,
+							"insert",
+							{
+								"characters": "s"
+							},
+							"AQAAADIXAAAAAAAAMxcAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAMhcAAAAAAAAyFwAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							144,
+							1,
+							"insert",
+							{
+								"characters": ";"
+							},
+							"AQAAADQXAAAAAAAANRcAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAANBcAAAAAAAA0FwAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							145,
+							1,
+							"astyleformat",
+							null,
+							"AQAAADgXAAAAAAAAOBcAAAAAAAAIAAAAICAgICAgICA",
+							"AQAAAAAAAAABAAAANRcAAAAAAAA1FwAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							148,
+							1,
+							"right_delete",
+							null,
+							"AQAAAAIXAAAAAAAAAhcAAAAAAAABAAAAbg",
+							"AQAAAAAAAAABAAAAAhcAAAAAAAACFwAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							149,
+							1,
+							"insert",
+							{
+								"characters": "m"
+							},
+							"AQAAAAIXAAAAAAAAAxcAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAAhcAAAAAAAACFwAAAAAAAAAAAAAAAPC/"
+						]
+					]
+				},
+				{
+					"file": "/C/Users/2001a/Documents/GitHub/CPP-STL-Primer/011_START25B_DIV2/03.cpp",
+					"settings":
+					{
+						"buffer_size": 6359,
+						"line_ending": "Windows"
+					},
+					"undo_stack":
+					[
+					]
+				},
+				{
+					"file": "/C/Users/2001a/Documents/GitHub/CPP-STL-Primer/011_START25B_DIV2/zin.txt",
+					"settings":
+					{
+						"buffer_size": 65,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					},
+					"undo_stack":
+					[
+						[
+							5,
+							1,
+							"insert",
+							{
+								"characters": "1"
+							},
+							"AQAAAAAAAAAAAAAAAQAAAAAAAAAAAAAA",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							6,
+							1,
+							"insert",
+							{
+								"characters": "\n100"
+							},
+							"BAAAAAEAAAAAAAAAAgAAAAAAAAAAAAAAAgAAAAAAAAADAAAAAAAAAAAAAAADAAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAABQAAAAAAAAAAAAAA",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAABAAAAAAAAAAEAAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							7,
+							1,
+							"insert",
+							{
+								"characters": "\n"
+							},
+							"AQAAAAUAAAAAAAAABgAAAAAAAAAAAAAA",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAFAAAAAAAAAAUAAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							9,
+							1,
+							"insert",
+							{
+								"characters": "0"
+							},
+							"AQAAAAUAAAAAAAAABgAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAABQAAAAAAAAAFAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							16,
+							1,
+							"insert",
+							{
+								"characters": "0"
+							},
+							"AQAAAAYAAAAAAAAABwAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAABgAAAAAAAAAGAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							24,
+							1,
+							"paste",
+							null,
+							"AgAAAAAAAAAAAAAAMgAAAAAAAAAAAAAAMgAAAAAAAAAyAAAAAAAAAAgAAAAxCjEwMDAwCg",
+							"AQAAAAAAAAABAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							25,
+							1,
+							"insert",
+							{
+								"characters": "\n"
+							},
+							"AQAAADIAAAAAAAAAMwAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAMgAAAAAAAAAyAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							26,
+							1,
+							"paste",
+							null,
+							"AQAAADMAAAAAAAAAOQAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAMwAAAAAAAAAzAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							31,
+							1,
+							"insert",
+							{
+								"characters": "\n"
+							},
+							"AQAAAAEAAAAAAAAAAgAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAAQAAAAAAAAABAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							34,
+							1,
+							"insert",
+							{
+								"characters": "\n"
+							},
+							"AQAAABQAAAAAAAAAFQAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAFAAAAAAAAAAUAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							37,
+							1,
+							"insert",
+							{
+								"characters": "\n"
+							},
+							"AQAAACsAAAAAAAAALAAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAKwAAAAAAAAArAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							43,
+							1,
+							"paste",
+							null,
+							"AgAAAAAAAAAAAAAAMgAAAAAAAAAAAAAAMgAAAAAAAAAyAAAAAAAAADwAAAAzCgo0CjEgMQoxIDAKMCAxCjAgMAoKNQowIDAKMCAxCjAgMgowIDMKMCA0CgoxCjEwIDEwCgo0CjYKMgo",
+							"AQAAAAAAAAABAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							44,
+							1,
+							"insert",
+							{
+								"characters": "\n"
+							},
+							"AQAAADIAAAAAAAAAMwAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAMgAAAAAAAAAyAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							45,
+							1,
+							"paste",
+							null,
+							"AQAAADMAAAAAAAAAQQAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAMwAAAAAAAAAzAAAAAAAAAAAAAAAAAPC/"
+						]
+					]
+				},
+				{
+					"file": "/C/Users/2001a/Documents/GitHub/CPP-STL-Primer/011_START25B_DIV2/zout.txt",
+					"settings":
+					{
+						"buffer_size": 6,
+						"line_ending": "Windows"
+					},
+					"undo_stack":
+					[
+						[
+							6,
+							1,
+							"revert",
+							null,
+							"AgAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAMTAwCgAAAAAAAAAABAAAAAAAAAAAAAAA",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAEAAAAAAAAAAQAAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							7,
+							1,
+							"revert",
+							null,
+							"AgAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAMTAwCgAAAAAAAAAABAAAAAAAAAAAAAAA",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAEAAAAAAAAAAQAAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							8,
+							1,
+							"revert",
+							null,
+							"AgAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAMTAwCgAAAAAAAAAABAAAAAAAAAAAAAAA",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAEAAAAAAAAAAQAAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							9,
+							1,
+							"revert",
+							null,
+							"AgAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAMTAwCgAAAAAAAAAABAAAAAAAAAAAAAAA",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAEAAAAAAAAAAQAAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							10,
+							1,
+							"revert",
+							null,
+							"AgAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAMTAwCgAAAAAAAAAABAAAAAAAAAAAAAAA",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAEAAAAAAAAAAQAAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							11,
+							1,
+							"revert",
+							null,
+							"AgAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAMTAwCgAAAAAAAAAABAAAAAAAAAAAAAAA",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAEAAAAAAAAAAQAAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							12,
+							1,
+							"revert",
+							null,
+							"AgAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAMTAwCgAAAAAAAAAABAAAAAAAAAAAAAAA",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAEAAAAAAAAAAQAAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							13,
+							1,
+							"revert",
+							null,
+							"AgAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAMTAwCgAAAAAAAAAABAAAAAAAAAAAAAAA",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAEAAAAAAAAAAQAAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							14,
+							1,
+							"revert",
+							null,
+							"AwAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAMTAwCgAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAEAAAAAAAAAAQAAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							7,
+							1,
+							"revert",
+							null,
+							"AgAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAMTAwCgAAAAAAAAAABAAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAABAAAAAAAAAAEAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							10,
+							1,
+							"revert",
+							null,
+							"AgAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAMTAwCgAAAAAAAAAABQAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAABAAAAAAAAAAEAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							13,
+							1,
+							"revert",
+							null,
+							"AgAAAAAAAAAAAAAAAAAAAAAAAAAFAAAAMTAwMAoAAAAAAAAAAAYAAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAABQAAAAAAAAAFAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							20,
+							1,
+							"revert",
+							null,
+							"BAAAAAAAAAAAAAAAAAAAAAAAAAAGAAAAMTAwMDAKAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAABgAAAAAAAAAGAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							25,
+							1,
+							"revert",
+							null,
+							"AgAAAAAAAAAAAAAAAAAAAAAAAAAGAAAANAo2CjIKAAAAAAAAAAAGAAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAABgAAAAAAAAAGAAAAAAAAAAAAAAAAAPC/"
+						]
+					]
+				},
+				{
+					"file": "/C/Users/2001a/Documents/GitHub/CPP-STL-Primer/011_START25B_DIV2/zerr.txt",
+					"settings":
+					{
+						"buffer_size": 20,
+						"line_ending": "Windows"
+					},
+					"undo_stack":
+					[
+						[
+							8,
+							1,
+							"revert",
+							null,
+							"AgAAAAAAAAAAAAAAAAAAAAAAAAAcAAAACltDb21wbGV0ZWQgaW4gMC4wMDI1MTA2IHNdCgAAAAAAAAAAFAAAAAAAAAAAAAAA",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAcAAAAAAAAABwAAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							9,
+							1,
+							"revert",
+							null,
+							"AgAAAAAAAAAAAAAAAAAAAAAAAAAUAAAACltDb21wbGV0ZWQgaW4gMCBzXQoAAAAAAAAAABQAAAAAAAAAAAAAAA",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAUAAAAAAAAABQAAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							10,
+							1,
+							"revert",
+							null,
+							"AgAAAAAAAAAAAAAAAAAAAAAAAAAUAAAACltDb21wbGV0ZWQgaW4gMCBzXQoAAAAAAAAAABQAAAAAAAAAAAAAAA",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAUAAAAAAAAABQAAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							11,
+							1,
+							"revert",
+							null,
+							"AgAAAAAAAAAAAAAAAAAAAAAAAAAUAAAACltDb21wbGV0ZWQgaW4gMCBzXQoAAAAAAAAAABQAAAAAAAAAAAAAAA",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAUAAAAAAAAABQAAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							12,
+							1,
+							"revert",
+							null,
+							"AgAAAAAAAAAAAAAAAAAAAAAAAAAUAAAACltDb21wbGV0ZWQgaW4gMCBzXQoAAAAAAAAAABQAAAAAAAAAAAAAAA",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAUAAAAAAAAABQAAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							13,
+							1,
+							"revert",
+							null,
+							"AgAAAAAAAAAAAAAAAAAAAAAAAAAUAAAACltDb21wbGV0ZWQgaW4gMCBzXQoAAAAAAAAAABQAAAAAAAAAAAAAAA",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAUAAAAAAAAABQAAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							14,
+							1,
+							"revert",
+							null,
+							"AgAAAAAAAAAAAAAAAAAAAAAAAAAUAAAACltDb21wbGV0ZWQgaW4gMCBzXQoAAAAAAAAAABQAAAAAAAAAAAAAAA",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAUAAAAAAAAABQAAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							15,
+							1,
+							"revert",
+							null,
+							"AgAAAAAAAAAAAAAAAAAAAAAAAAAUAAAACltDb21wbGV0ZWQgaW4gMCBzXQoAAAAAAAAAABQAAAAAAAAAAAAAAA",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAUAAAAAAAAABQAAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							16,
+							1,
+							"revert",
+							null,
+							"AwAAAAAAAAAAAAAAAAAAAAAAAAAUAAAACltDb21wbGV0ZWQgaW4gMCBzXQoAAAAAAAAAABQAAAAAAAAAAAAAAAAAAAAAAAAAFAAAAAAAAAAAAAAA",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAUAAAAAAAAABQAAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							3,
+							1,
+							"revert",
+							null,
+							"AgAAAAAAAAAAAAAAAAAAAAAAAAAUAAAACltDb21wbGV0ZWQgaW4gMCBzXQoAAAAAAAAAABQAAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAFAAAAAAAAAAUAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							4,
+							1,
+							"revert",
+							null,
+							"AgAAAAAAAAAAAAAAAAAAAAAAAAAUAAAACltDb21wbGV0ZWQgaW4gMCBzXQoAAAAAAAAAABQAAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAFAAAAAAAAAAUAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							5,
+							1,
+							"revert",
+							null,
+							"AgAAAAAAAAAAAAAAAAAAAAAAAAAUAAAACltDb21wbGV0ZWQgaW4gMCBzXQoAAAAAAAAAABQAAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAFAAAAAAAAAAUAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							8,
+							1,
+							"revert",
+							null,
+							"AgAAAAAAAAAAAAAAAAAAAAAAAAAUAAAACltDb21wbGV0ZWQgaW4gMCBzXQoAAAAAAAAAAIQAAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAFAAAAAAAAAAUAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							11,
+							1,
+							"revert",
+							null,
+							"AgAAAAAAAAAAAAAAAAAAAAAAAACEAAAAeDogMSwgeTogMQp4OiAxLCB5OiAwCng6IDAsIHk6IDEKeDogMCwgeTogMAp4OiAwLCB5OiAwCng6IDAsIHk6IDEKeDogMCwgeTogMgp4OiAwLCB5OiAzCng6IDAsIHk6IDQKeDogMTAsIHk6IDEwCgpbQ29tcGxldGVkIGluIDAgc10KAAAAAAAAAABnAAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAhAAAAAAAAACEAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							14,
+							1,
+							"revert",
+							null,
+							"AgAAAAAAAAAAAAAAAAAAAAAAAABnAAAAc3ggOiBbIDAgMSBdCnN5IDogWyAwIDEgXQoKc3ggOiBbIDAgXQpzeSA6IFsgMCAxIDIgMyA0IF0KCnN4IDogWyAxMCBdCnN5IDogWyAxMCBdCgoKW0NvbXBsZXRlZCBpbiAwIHNdCgAAAAAAAAAAZwAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAZwAAAAAAAABnAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							15,
+							1,
+							"revert",
+							null,
+							"AgAAAAAAAAAAAAAAAAAAAAAAAABnAAAAc3ggOiBbIDAgMSBdCnN5IDogWyAwIDEgXQoKc3ggOiBbIDAgXQpzeSA6IFsgMCAxIDIgMyA0IF0KCnN4IDogWyAxMCBdCnN5IDogWyAxMCBdCgoKW0NvbXBsZXRlZCBpbiAwIHNdCgAAAAAAAAAAFAAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAZwAAAAAAAABnAAAAAAAAAAAAAAAAAPC/"
+						]
+					]
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+				[
+					[
+						[
+							"Packages/C++/C Single File.sublime-build",
+							""
+						],
+						[
+							"Packages/C++/C Single File.sublime-build",
+							"Run"
+						]
+					],
+					[
+						"Packages/C++/C Single File.sublime-build",
+						"Run"
+					]
+				],
+				[
+					[
+						[
+							"Packages/C++/C++ Single File.sublime-build",
+							""
+						],
+						[
+							"Packages/C++/C++ Single File.sublime-build",
+							"Run"
+						]
+					],
+					[
+						"Packages/C++/C++ Single File.sublime-build",
+						"Run"
+					]
+				],
+				[
+					[
+						[
+							"Packages/C++/C++ Single File.sublime-build",
+							""
+						],
+						[
+							"Packages/C++/C++ Single File.sublime-build",
+							"Run"
+						],
+						[
+							"Packages/User/C++ 14.sublime-build",
+							""
+						],
+						[
+							"Packages/User/C++ 14.sublime-build",
+							"Run"
+						]
+					],
+					[
+						"Packages/C++/C++ Single File.sublime-build",
+						"Run"
+					]
+				],
+				[
+					[
+						[
+							"Packages/Python/Python.sublime-build",
+							""
+						],
+						[
+							"Packages/Python/Python.sublime-build",
+							"Syntax Check"
+						]
+					],
+					[
+						"Packages/Python/Python.sublime-build",
+						""
+					]
+				],
+				[
+					[
+						[
+							"Packages/User/C++ 14.sublime-build",
+							""
+						],
+						[
+							"Packages/User/C++ 14.sublime-build",
+							"Run"
+						]
+					],
+					[
+						"Packages/User/C++ 14.sublime-build",
+						"Run"
+					]
+				]
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"fo",
+						"SublimeAStyleFormatter: Format Current File"
+					],
+					[
+						"for",
+						"SublimeAStyleFormatter: Format Current File"
+					],
+					[
+						"buil",
+						"Build: Cancel"
+					],
+					[
+						"auto",
+						"Toggle AutoSave: all files"
+					],
+					[
+						"au",
+						"Toggle AutoSave: all files"
+					],
+					[
+						"forma",
+						"SublimeAStyleFormatter: Format Current File"
+					],
+					[
+						"aut",
+						"Toggle AutoSave: all files"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"pac",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 128.981124878,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/C/Users/2001a/Documents/GitHub/CPP-STL-Primer",
+				"/C/Users/2001a/Documents/GitHub/CPP-STL-Primer/011_START25B_DIV2",
+				"/C/Users/2001a/Documents/GitHub/CPP-STL-Primer/Containers"
+			],
+			"file_history":
+			[
+				"/C/Users/2001a/Documents/GitHub/CPP-STL-Primer/011_START25B_DIV2/01.cpp",
+				"/C/Users/2001a/Documents/GitHub/CPP-STL-Primer/Containers/Associative_Containers/set.cpp",
+				"/C/Users/2001a/Documents/GitHub/CPP-STL-Primer/Containers/Associative_Containers/zerr.txt",
+				"/C/Users/2001a/Documents/GitHub/CPP-STL-Primer/Containers/Associative_Containers/zout.txt",
+				"/C/Users/2001a/Documents/GitHub/CPP-STL-Primer/Containers/Associative_Containers/zin.txt",
+				"/C/Users/2001a/Documents/GitHub/CPP-STL-Primer/011_START25B_DIV2/02.cpp",
+				"/C/Users/2001a/Documents/GitHub/CPP-STL-Primer/011_START25B_DIV2/05.cpp",
+				"/C/Users/2001a/Documents/GitHub/CPP-STL-Primer/011_START25B_DIV2/04.cpp",
+				"/C/Users/2001a/Documents/GitHub/CPP-STL-Primer/011_START25B_DIV2/03.cpp",
+				"/C/Users/2001a/Documents/GitHub/CPP-STL-Primer/011_START25B_DIV2/help.cpp",
+				"/C/Users/2001a/Documents/GitHub/CPP-STL-Primer/011_START25B_DIV2/old.cpp",
+				"/C/Users/2001a/Documents/GitHub/CPP-STL-Primer/011_START25B_DIV2/new.cpp",
+				"/C/Users/2001a/Documents/GitHub/CPP-STL-Primer/011_START25B_DIV2/temp.cpp",
+				"/C/Users/2001a/Documents/GitHub/CPP-STL-Primer/011_START25B_DIV2/zin.txt",
+				"/C/Users/2001a/Documents/GitHub/CPP-STL-Primer/011_START25B_DIV2/zerr.txt",
+				"/C/Users/2001a/Documents/GitHub/CPP-STL-Primer/Containers/Sequence_Containers/array.cpp",
+				"/C/Users/2001a/Documents/GitHub/CPP-STL-Primer/Containers/Sequence_Containers/zin.txt",
+				"/C/Users/2001a/Documents/GitHub/CPP-STL-Primer/Containers/Sequence_Containers/zout.txt",
+				"/C/Users/2001a/Documents/GitHub/CPP-STL-Primer/Containers/Sequence_Containers/zerr.txt",
+				"/C/Users/2001a/Documents/GitHub/CPP-STL-Primer/Containers/Unordered_Associative_Containers/unordered_set.cpp",
+				"/C/Users/2001a/Documents/GitHub/CPP-STL-Primer/Containers/Unordered_Associative_Containers/unordered_multiset.cpp",
+				"/C/Users/2001a/Documents/GitHub/CPP-STL-Primer/Containers/Unordered_Associative_Containers/unordered_multimap.cpp",
+				"/C/Users/2001a/Documents/GitHub/CPP-STL-Primer/Containers/Unordered_Associative_Containers/unordered_map.cpp",
+				"/C/Users/2001a/Documents/GitHub/CPP-STL-Primer/Containers/Sequence_Containers/vector.cpp",
+				"/C/Users/2001a/Documents/GitHub/CPP-STL-Primer/Containers/Sequence_Containers/list.cpp",
+				"/C/Users/2001a/Documents/GitHub/CPP-STL-Primer/Containers/Sequence_Containers/forward_list.cpp",
+				"/C/Users/2001a/Documents/GitHub/CPP-STL-Primer/Containers/Sequence_Containers/deque.cpp",
+				"/C/Users/2001a/Documents/GitHub/CPP-STL-Primer/Containers/Container_Adaptors/stack.cpp",
+				"/C/Users/2001a/Documents/GitHub/CPP-STL-Primer/Containers/Container_Adaptors/queue.cpp",
+				"/C/Users/2001a/Documents/GitHub/CPP-STL-Primer/Containers/Container_Adaptors/priority_queue.cpp",
+				"/C/Users/2001a/Documents/GitHub/CPP-STL-Primer/Containers/Associative_Containers/practice.cpp",
+				"/C/Users/2001a/Documents/GitHub/CPP-STL-Primer/Containers/Associative_Containers/multiset.cpp",
+				"/C/Users/2001a/Documents/GitHub/CPP-STL-Primer/Containers/Associative_Containers/multimap.cpp",
+				"/C/Users/2001a/Documents/GitHub/CPP-STL-Primer/Containers/Associative_Containers/map.cpp",
+				"/C/Users/2001a/Documents/GitHub/CPMaster/CodeChef/010_FEB221C_DIV3/zin.txt",
+				"/C/Users/2001a/Documents/GitHub/CPMaster/CodeChef/010_FEB221C_DIV3/zout.txt",
+				"/C/Users/2001a/Documents/GitHub/CPMaster/CodeChef/010_FEB221C_DIV3/zerr.txt",
+				"/C/Users/2001a/Documents/GitHub/CPMaster/CodeChef/010_FEB221C_DIV3/04_BITBLEND.cpp",
+				"/C/Users/2001a/Documents/GitHub/CPMaster/CodeChef/010_FEB221C_DIV3/test.cpp",
+				"/C/Users/2001a/Documents/GitHub/CPMaster/CodeChef/010_FEB221C_DIV3/temp.cpp",
+				"/C/Users/2001a/Documents/GitHub/CPMaster/CodeChef/010_FEB221C_DIV3/new_old.cpp",
+				"/C/Users/2001a/Documents/GitHub/CPMaster/CodeChef/010_FEB221C_DIV3/new.cpp",
+				"/C/Users/2001a/Documents/GitHub/CPMaster/CodeChef/010_FEB221C_DIV3/05_REMADJ.cpp",
+				"/C/Users/2001a/AppData/Roaming/Sublime Text/Packages/User/cpv.sublime-snippet",
+				"/C/Users/2001a/Documents/GitHub/CPMaster/CodeChef/010_FEB221C_DIV3/03_BINBASBASIC.cpp",
+				"/C/Users/2001a/Documents/GitHub/CPMaster/CodeChef/010_FEB221C_DIV3/02_EUREKA.cpp",
+				"/C/Users/2001a/Documents/GitHub/CPMaster/CodeChef/010_FEB221C_DIV3/01_CHEFBARBER.cpp",
+				"/C/Users/2001a/Documents/GitHub/CPMaster/CodeForces/1100/zerr.txt",
+				"/C/Users/2001a/Documents/GitHub/CPMaster/CodeForces/1100/zout.txt",
+				"/C/Users/2001a/Documents/GitHub/CPMaster/CodeForces/1100/zin.txt",
+				"/C/Users/2001a/Documents/GitHub/CPMaster/CodeForces/1100/1366A.cpp",
+				"/C/Users/2001a/Documents/GitHub/CPMaster/CodeForces/1100/1324B.cpp",
+				"/C/Users/2001a/Documents/GitHub/CPMaster/CodeForces/1100/1409B.cpp",
+				"/C/Users/2001a/Documents/GitHub/CPMaster/CodeForces/1100/467B.cpp",
+				"/C/Users/2001a/Documents/GitHub/CPMaster/CodeForces/1100/1360C.cpp",
+				"/C/Users/2001a/Documents/GitHub/CPMaster/CodeForces/1100/new.cpp",
+				"/C/Users/2001a/Documents/GitHub/CPMaster/CodeForces/1100/output1.txt",
+				"/C/Users/2001a/Documents/GitHub/CPMaster/CodeForces/1100/error.txt",
+				"/C/Users/2001a/Documents/GitHub/CPMaster/CodeForces/1100/input1.txt",
+				"/C/Users/2001a/AppData/Roaming/Sublime Text/Packages/User/cpz.sublime-snippet",
+				"/C/Users/2001a/AppData/Roaming/Sublime Text/Packages/User/cpy.sublime-snippet",
+				"/C/Users/2001a/AppData/Roaming/Sublime Text/Packages/User/cpx.sublime-snippet",
+				"/C/Users/2001a/AppData/Roaming/Sublime Text/Packages/User/cpw.sublime-snippet",
+				"/C/Users/2001a/Downloads/memory_resource",
+				"/C/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/experimental/memory_resource",
+				"/C/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/stdc++.h",
+				"/C/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/stdtr1c++.h",
+				"/C/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/stdtr1++.h",
+				"/C/Users/2001a/Downloads/temp.h",
+				"/C/Users/2001a/Documents/GitHub/CPMaster/CodeForces/1100/temp.cpp",
+				"/C/Users/2001a/Documents/GitHub/CPP-STL-Primer/Containers/Associative_Containers/input1.txt",
+				"/C/Users/2001a/Downloads/1633/error.txt",
+				"/C/Users/2001a/Downloads/1633/output1.txt",
+				"/C/Users/2001a/Downloads/1633/input1.txt",
+				"/C/Users/2001a/Downloads/1633/temp.cpp",
+				"/C/Users/2001a/Downloads/1633/04_DIVREC.cpp",
+				"/C/Users/2001a/Downloads/1633/03_ANTI_PAL.cpp",
+				"/C/Users/2001a/Downloads/1633/02_ORANDCON.cpp",
+				"/C/Users/2001a/Downloads/1633/01_AVOIDCONTACT.cpp",
+				"/C/Users/2001a/Downloads/1633/BADMINTON.cpp",
+				"/C/Users/2001a/Downloads/1633/EVMHACK.cpp",
+				"/C/Users/2001a/Downloads/1633/not.cpp",
+				"/C/Users/2001a/Downloads/1633/04.cpp",
+				"/C/Users/2001a/Downloads/1633/ok.cpp",
+				"/C/Users/2001a/Downloads/1633/03.cpp",
+				"/C/Users/2001a/Downloads/1633/02.cpp",
+				"/C/Users/2001a/Downloads/1633/01.cpp",
+				"/C/Users/2001a/Downloads/1633/05.cpp",
+				"/C/Users/2001a/Downloads/1633/1633D.cpp",
+				"/C/Users/2001a/Documents/GitHub/CPMaster/CodeForces/1000/output1.txt",
+				"/C/Users/2001a/Documents/GitHub/CPMaster/CodeForces/error.txt",
+				"/C/Users/2001a/Documents/GitHub/CPMaster/CodeForces/output1.txt",
+				"/C/Users/2001a/Documents/GitHub/CPMaster/CodeForces/input1.txt",
+				"/C/Users/2001a/Documents/GitHub/CPMaster/CodeForces/1632A.cpp",
+				"/C/Users/2001a/Documents/GitHub/CPMaster/CodeForces/1632C.cpp",
+				"/C/Users/2001a/Documents/GitHub/CPMaster/CodeForces/1632B.cpp",
+				"/C/Users/2001a/Documents/GitHub/CPMaster/CodeForces/temp.cpp",
+				"/C/Users/2001a/Documents/GitHub/CPMaster/CodeForces/1632D.cpp",
+				"/C/Users/2001a/Documents/GitHub/CPMaster/CodeChef/008_LTIME104B_DIV2/input1.txt",
+				"/C/Users/2001a/Documents/GitHub/CPMaster/CodeChef/008_LTIME104B_DIV2/C.cpp",
+				"/C/Users/2001a/Documents/GitHub/CPMaster/CodeChef/008_LTIME104B_DIV2/error.txt",
+				"/C/Users/2001a/Documents/GitHub/CPMaster/CodeChef/008_LTIME104B_DIV2/output1.txt",
+				"/C/Users/2001a/Documents/GitHub/CPMaster/CodeChef/008_LTIME104B_DIV2/temp.cpp",
+				"/C/Users/2001a/Documents/GitHub/CPMaster/CodeChef/008_LTIME104B_DIV2/B.cpp",
+				"/C/Users/2001a/Documents/GitHub/CPMaster/CodeChef/008_LTIME104B_DIV2/A.cpp",
+				"/C/Users/2001a/Documents/GitHub/CPMaster/CodeChef/008_LTIME104B_DIV2/03_PERMXORSUM.cpp",
+				"/C/Users/2001a/Documents/GitHub/CPMaster/CodeChef/008_LTIME104B_DIV2/02_PREZ.cpp",
+				"/C/Users/2001a/Documents/GitHub/CPMaster/CodeChef/008_LTIME104B_DIV2/01_SUBPERM.cpp",
+				"/C/Users/2001a/Documents/GitHub/CPMaster/CodeChef/008_LTIME104B_DIV2/04.cpp",
+				"/C/Users/2001a/Documents/GitHub/CPMaster/CodeChef/008_LTIME104B_DIV2/SUBSTADD.cpp",
+				"/C/Users/2001a/Documents/GitHub/CPMaster/CodeChef/008_LTIME104B_DIV2/LOCKDRAW.cpp",
+				"/C/Users/2001a/Documents/GitHub/CPMaster/CodeChef/008_LTIME104B_DIV2/03.cpp",
+				"/C/Users/2001a/Documents/GitHub/CPMaster/CodeChef/008_LTIME104B_DIV2/new.cpp",
+				"/C/Users/2001a/Documents/GitHub/CPMaster/CodeChef/008_LTIME104B_DIV2/02.cpp",
+				"/C/Users/2001a/Documents/GitHub/CPMaster/CodeChef/008_LTIME104B_DIV2/01.cpp",
+				"/C/Users/2001a/Documents/GitHub/CPMaster/CodeChef/008_LTIME104B_DIV2/06.cpp",
+				"/C/Users/2001a/Documents/GitHub/CPMaster/CodeChef/008_LTIME104B_DIV2/05.cpp",
+				"/C/Users/2001a/Documents/GitHub/CPMaster/CodeForces/1000/error.txt",
+				"/C/Users/2001a/Documents/GitHub/CPMaster/CodeForces/1000/input1.txt",
+				"/C/Users/2001a/Documents/GitHub/CPMaster/CodeForces/1000/1473B.cpp",
+				"/C/Users/2001a/Documents/GitHub/CPMaster/CodeForces/010_#768_DIV2/B.cpp",
+				"/C/Users/2001a/Documents/GitHub/CPMaster/CodeForces/1000/1474B.cpp",
+				"/C/Users/2001a/Downloads/temp.cpp",
+				"/C/Users/2001a/Documents/GitHub/CPMaster/CodeForces/1000/1388B.cpp",
+				"/C/Users/2001a/Documents/GitHub/CPMaster/CodeForces/1000/1353C.cpp",
+				"/C/Users/2001a/Documents/GitHub/CPMaster/CodeForces/1000/1333A.cpp",
+				"/C/Users/2001a/Documents/GitHub/CPMaster/CodeForces/1000/1359B.cpp",
+				"/C/Users/2001a/Documents/GitHub/CPMaster/CodeForces/1000/1374C.cpp"
+			],
+			"find":
+			{
+				"height": 26.2641509434
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": true,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"scrollbar_highlights": true,
+				"show_context": true,
+				"use_buffer2": true,
+				"use_gitignore": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "C:\\Users\\2001a\\Documents\\GitHub\\CPP-STL-Primer"
+				}
+			],
+			"groups":
+			[
+				{
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/C/Users/2001a/Documents/GitHub/CPP-STL-Primer/011_START25B_DIV2/02.cpp",
+							"selected": true,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 6536,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										5941,
+										5941
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/C++/C++.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 1439.09433962,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"stack_multiselect": false,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/C/Users/2001a/Documents/GitHub/CPP-STL-Primer/011_START25B_DIV2/03.cpp",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 6359,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										5855,
+										5855
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/C++/C++.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 1298.71698113,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"stack_multiselect": false,
+							"type": "text"
+						}
+					]
+				},
+				{
+					"sheets":
+					[
+						{
+							"buffer": 2,
+							"file": "/C/Users/2001a/Documents/GitHub/CPP-STL-Primer/011_START25B_DIV2/zin.txt",
+							"selected": true,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 65,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										65,
+										65
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"stack_multiselect": false,
+							"type": "text"
+						}
+					]
+				},
+				{
+					"sheets":
+					[
+						{
+							"buffer": 3,
+							"file": "/C/Users/2001a/Documents/GitHub/CPP-STL-Primer/011_START25B_DIV2/zout.txt",
+							"selected": true,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 6,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										6,
+										6
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"stack_multiselect": false,
+							"type": "text"
+						},
+						{
+							"buffer": 4,
+							"file": "/C/Users/2001a/Documents/GitHub/CPP-STL-Primer/011_START25B_DIV2/zerr.txt",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 20,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										20,
+										20
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"stack_multiselect": false,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 26.2641509434
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						2
+					],
+					[
+						1,
+						0,
+						2,
+						1
+					],
+					[
+						1,
+						1,
+						2,
+						2
+					]
+				],
+				"cols":
+				[
+					0.0,
+					0.72138231982,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					0.5,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.astyle_error_message":
+			{
+				"height": 0.0
+			},
+			"output.exec":
+			{
+				"height": 57.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "Packages/User/CPP17.sublime-build",
+			"position": "0,2,3,-32000,-32000,-1,-1,580,67,60,978,d95a77b0a7c2034e8744cb8f415a6a73",
+			"project": "",
+			"replace":
+			{
+				"height": 48.9056603774
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+				"last_automatic_layout":
+				[
+					[
+						0,
+						0,
+						1,
+						2
+					],
+					[
+						1,
+						0,
+						2,
+						1
+					],
+					[
+						1,
+						1,
+						2,
+						2
+					]
+				]
+			},
+			"show_minimap": false,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 231.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 72,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}
