@@ -5,14 +5,12 @@ using namespace std;
 typedef long long ll;
 typedef long double ld;
 
-class Solution {
-public:
-    void solFunc() {
-        int n;
-        cin >> n;
-        cout << n << endl;
-    }
-};
+void google(int t) {cout << "Case #" << t << ": ";}
+
+void solve() {
+    int n; cin >> n;
+    vector<int> a(n);
+}
 
 int main() {
 #ifndef ONLINE_JUDGE
@@ -22,9 +20,9 @@ int main() {
 #endif
     int T = 1;
     cin >> T;
-    while (T--) {
-        Solution obj;
-        obj.solFunc();
+    for (int i = 1; i <= T; i++) {
+        // google(i);
+        solve();
     }
     return 0;
 }
