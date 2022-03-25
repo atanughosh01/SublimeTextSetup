@@ -4015,6 +4015,14 @@
 							null,
 							"AgAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAMgo3CjAKMQoAAAAAAAAAAAgAAAAAAAAAAAAAAA",
 							"AQAAAAAAAAABAAAACAAAAAAAAAAIAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							67,
+							1,
+							"revert",
+							null,
+							"AgAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAMgo3CjAKMQoAAAAAAAAAAAgAAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAACAAAAAAAAAAIAAAAAAAAAAAAAAAAAPC/"
 						]
 					]
 				},
@@ -4022,7 +4030,7 @@
 					"file": "/C/Users/2001a/Documents/GitHub/CPMaster/CodeForces/PRACTICE/1300/zerr.txt",
 					"settings":
 					{
-						"buffer_size": 28,
+						"buffer_size": 20,
 						"line_ending": "Windows"
 					},
 					"undo_stack":
@@ -4225,6 +4233,14 @@
 							"revert",
 							null,
 							"AgAAAAAAAAAAAAAAAAAAAAAAAAAUAAAACltDb21wbGV0ZWQgaW4gMCBzXQoAAAAAAAAAABwAAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAFAAAAAAAAAAUAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							67,
+							1,
+							"revert",
+							null,
+							"AgAAAAAAAAAAAAAAAAAAAAAAAAAcAAAACltDb21wbGV0ZWQgaW4gMC4wMDIzMjQ4IHNdCgAAAAAAAAAAFAAAAAAAAAAAAAAA",
 							"AQAAAAAAAAABAAAAFAAAAAAAAAAUAAAAAAAAAAAAAAAAAPC/"
 						]
 					]
@@ -4608,8 +4624,8 @@
 								"selection":
 								[
 									[
-										6935,
-										6935
+										7796,
+										7796
 									]
 								],
 								"settings":
@@ -4619,7 +4635,7 @@
 									"translate_tabs_to_spaces": false
 								},
 								"translation.x": 0.0,
-								"translation.y": 1732.52830189,
+								"translation.y": 2224.30188679,
 								"zoom_level": 1.0
 							},
 							"stack_index": 0,
@@ -4702,7 +4718,7 @@
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 28,
+								"buffer_size": 20,
 								"regions":
 								{
 								},
