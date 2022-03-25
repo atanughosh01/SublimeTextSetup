@@ -84,11 +84,8 @@ template<class T, class V> void _print(pair<T, V> p) {cerr << "{"; _print(p.ff);
 template<class T, class V> void _print(map<T, V> v) {cerr << "[ "; for (auto i : v) {_print(i); cerr << " ";} cerr << "]";}
 template<class T, class V> void _print(unordered_map<T, V> v) {cerr << "[ "; for (auto i : v) {_print(i); cerr << " ";} cerr << "]";}
 void _print(pbds v) {cerr << "[ "; for (auto i : v) {_print(i); cerr << " ";} cerr << "]";}
-//-----------------------------------------------------------------------------------------------------------------------------------------------
-
-// const int MAX_NUM = 200000;
-// priority_queue<int,vector<int>,greater<int>> pq;
-/* Pass an array of size 3 */
+//-----------------------------------------------------------------------------------------------------------------------------------------------------
+/* Pass an array of size 3 in the extendgcd() funtion */
 // void extendgcd(ll a,ll b,ll* v){if(b==0){v[0]=1;v[1]=0;v[2]=a;return;}extendgcd(b,a%b,v);ll x=v[1];v[1]=v[0]-v[1]*(a/b);v[0]=x;return;}
 // void google(int t) {cout << "Case #" << t << ": ";}
 // ll msb(ll n){ll r=0;FOR(i,0,32){if((1ll<<i)==n) return(i+1);if(((1ll<<i)&n)==(1ll<<i)){if(n==i)r=i;else r=i+1;}} return(r+1);}
@@ -114,8 +111,11 @@ void _print(pbds v) {cerr << "[ "; for (auto i : v) {_print(i); cerr << " ";} ce
 // bool isPalindromeS(string& v){ll n=sz(v);FOR(i,0,n/2){if(v[i]!=v[n-i-1]) return false;}return true;}
 // bool isSorted(vector<ll> v) {FOR(i,0,sz(v)-1) {if(v[i]>v[i+1]) return false;}return true;}
 // bool isPrime(ll n) {if(n<=1) return false; for(ll i=2;i*i<n;++i) {if(n%i==0) return false;} return true;}
-// vector<ll> sieve(int n) {int*arr=new int[n + 1]();vector<ll>v;for(int i=2;i<=n;i++)if(arr[i]==0){v.push_back(i);for(int j=2*i;j<=n;j+=i)arr[j]=1;}return v;}
-//-----------------------------------------------------------------------------------------------------------------------------------------------
+// vector<ll> sieve(int n){int*a=new int[n+1]();vector<ll>v;for(int i=2;i<=n;i++)if(a[i]==0){v.push_back(i);for(int j=2*i;j<=n;j+=i)a[j]=1;}return v;}
+// const int N = 2e5 + 12, M = 1e8 + 15;
+// int arr[N], pre[N], dp[M];
+// priority_queue<int,vector<int>,greater<int>> pq;
+//-----------------------------------------------------------------------------------------------------------------------------------------------------
 
 void solve() {
     int n; cin >> n;
