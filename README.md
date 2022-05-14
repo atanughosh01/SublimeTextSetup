@@ -1,2 +1,2 @@
-# sublime-text-setup
+# SublimeTextSetup
 Sublime Text set up for practising DSA
