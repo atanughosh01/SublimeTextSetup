@@ -1,0 +1,37 @@
+<snippet>
+    <content><![CDATA[
+#include<bits/stdc++.h>
+using namespace std;
+typedef long long ll;
+typedef long double ld;
+
+class Solution {
+public:
+    void solFunc() {
+        int n;
+        cin >> n;
+        cout << n << endl;
+    }
+};
+
+int main() {
+#ifndef ONLINE_JUDGE
+    freopen("zin.txt", "r", stdin);
+    freopen("zout.txt", "w", stdout);
+    freopen("zerr.txt", "w", stderr);
+#endif
+    int T = 1;
+    cin >> T;
+    while (T--) {
+        Solution obj;
+        obj.solFunc();
+    }
+    return 0;
+}
+
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>cpsnip</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <!-- <scope>source.python</scope> -->
+</snippet>
