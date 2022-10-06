@@ -2,7 +2,7 @@
     "cmd": ["g++",
         "-std=c++17", "${file}", "-o",
         "${file_base_name}.exe", "&&" ,
-        "${file_base_name}.exe<input1.txt>output1.txt"],
+        "${file_base_name}.exe<zin.txt>zout.txt"],
 
     "shell": true,
     "working_dir": "${file_path}",
