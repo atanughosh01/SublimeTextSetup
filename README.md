@@ -1,2 +1,3 @@
 # SublimeTextSetup
-Sublime Text set up for practising DSA
+
+Sublime Text set up for compiling C/C++ codes faster

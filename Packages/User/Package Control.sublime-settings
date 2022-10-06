@@ -1,0 +1,14 @@
+{
+	"bootstrapped": true,
+	"installed_packages":
+	[
+		"auto-save",
+		"Origami",
+		"Package Control",
+		"SublimeAStyleFormatter",
+		"Terminus",
+	],
+	"in_process_packages":
+	[
+	],
+}
