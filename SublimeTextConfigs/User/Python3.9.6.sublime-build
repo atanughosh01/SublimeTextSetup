@@ -1,4 +1,0 @@
-{
-	"shell_cmd": ["/c/msys64/mingw64/bin/python3.9", "$file"],
-	"selector": "source.python3"
-}
