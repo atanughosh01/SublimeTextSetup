@@ -1,0 +1,86 @@
+<snippet>
+    <content><![CDATA[
+// Problem: 
+
+#include<bits/stdc++.h>
+#include<ext/pb_ds/assoc_container.hpp>
+#include<ext/pb_ds/tree_policy.hpp>
+using namespace std;
+using namespace chrono;
+using namespace __gnu_pbds;
+typedef long long ll;
+typedef long double ld;
+typedef unsigned long long ull;
+mt19937 rng(chrono::steady_clock::now().time_since_epoch().count());
+typedef tree<pair<ll, ll>, null_type, less<pair<ll, ll>>, rb_tree_tag, tree_order_statistics_node_update> pbds;
+//-----------------------------------------------------------------------------------------
+#define endl "\n"
+#define INF ((ll)(1e18))
+#define MOD ((ll)(1e9+7))
+#define MOD2 ((ll)998244353)
+#define PI ((ld)(acos(-1.0)))
+#define ff first
+#define ss second
+#define pi pair<int,int>
+#define pll pair<ll,ll>
+#define vi vector<int>
+#define vll vector<ll>
+#define vvi vector<vector<int>>
+#define vvll vector<vector<ll>>
+#define vpi vector<pair<int,int>>
+#define vpll vector<pair<ll,ll>>
+#define getidx order_of_key
+#define sz(x) ((int)(x.size()))
+#define all(x) (x).begin(),(x).end()
+#define rall(x) (x).rbegin(),(x).rend()
+#define fill(x,y) memset(x,y,sizeof(x))
+#define rep(i,a,b) for(auto i=(a);i<(b);++i)
+#define REP(i,a,b) for(auto i=(a);i<=(b);++i)
+#define output(a,n,s) rep(i,0,n) cout<<a[i]<<s;
+#define input(a,n) rep(i,0,n) cin>>a[i];
+#define minv(v) *min_element(all(v))
+#define maxv(v) *max_element(all(v))
+#define setbits(x) __builtin_popcount(x)
+#define setbitsll(x) __builtin_popcountll(x)
+#define prcs cout.precision(15);cout << fixed;
+#define fast ios_base::sync_with_stdio(false);cin.tie(nullptr);cout.tie(nullptr);
+
+// priority_queue<int,vector<int>,greater<int>> pq;
+// const int N = 2e5 + 12, M = 1e8 + 15;
+// int arr[N], pre[N], dp[M];
+
+//-----------------------------------------------------------------------------------------
+
+void solve() {
+    int n; cin >> n;
+    vector<int> a(n);
+    input(a, n);
+    // output(a,n," ");
+}
+
+int main() {
+    prcs; fast;
+#ifndef ONLINE_JUDGE
+    freopen("zin.txt", "r", stdin);
+    freopen("zout.txt", "w", stdout);
+    freopen("zerr.txt", "w", stderr);
+#endif
+//  auto start = high_resolution_clock::now();
+    int _TT = 1;
+    cin >> _TT;
+    for (int _i = 1; _i <= _TT; _i++) {
+        // cout << "Case #" << _i << ": ";
+        solve();
+        cout << endl;
+    }
+//  auto stop = high_resolution_clock::now();
+//  auto duration = duration_cast<nanoseconds>(stop - start);
+// #ifndef ONLINE_JUDGE
+//  cerr << "\n[Completed in " << ((ld)duration.count()) / ((ld)1e9) << " s]" << endl;
+// #endif
+    return 0;
+}
+
+]]></content>
+    <tabTrigger>cpsnip1</tabTrigger>
+</snippet>

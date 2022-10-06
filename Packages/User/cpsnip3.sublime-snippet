@@ -1,11 +1,10 @@
 <snippet>
     <content><![CDATA[
 #include<bits/stdc++.h>
+#define endl "\n"
 using namespace std;
 typedef long long ll;
 typedef long double ld;
-
-void google(int t) {cout << "Case #" << t << ": ";}
 
 void solve() {
     int n; cin >> n;
@@ -18,18 +17,19 @@ int main() {
     freopen("zout.txt", "w", stdout);
     freopen("zerr.txt", "w", stderr);
 #endif
-    int T = 1;
-    cin >> T;
-    for (int i = 1; i <= T; i++) {
-        // google(i);
+    int _TT = 1; 
+    cin >> _TT;
+    for (int _i = 1; _i <= _TT; _i++) {
+        // cout << "Case #" << _i << ": ";
         solve();
+        cout << endl;
     }
     return 0;
 }
 
 ]]></content>
     <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-    <tabTrigger>cpsnip</tabTrigger>
+    <tabTrigger>cpsnip3</tabTrigger>
     <!-- Optional: Set a scope to limit where the snippet will trigger -->
     <!-- <scope>source.python</scope> -->
 </snippet>
